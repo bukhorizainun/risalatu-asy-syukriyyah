@@ -1,0 +1,24 @@
+1:"$Sreact.fragment"
+2:I[47257,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"ClientPageRoot"]
+3:I[30246,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js","/risalatu-asy-syukriyyah/_next/static/chunks/2abuhsm6ouwzj.js"],"default"]
+6:I[97367,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"ViewportBoundary"]
+c:I[97367,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"MetadataBoundary"]
+d:I[27201,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"IconMark"]
+f:I[39756,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"default"]
+10:I[37457,["/risalatu-asy-syukriyyah/_next/static/chunks/3fntmmi971322.js","/risalatu-asy-syukriyyah/_next/static/chunks/0c4u9eg0ykqka.js","/risalatu-asy-syukriyyah/_next/static/chunks/0ne62c68e52ji.js","/risalatu-asy-syukriyyah/_next/static/chunks/17a_-y715k2wk.js"],"default"]
+a:X
+12:X
+12:C
+0:{"buildId":"JwAC4gQmwavlzi3wlgCMY","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/risalatu-asy-syukriyyah/_next/static/chunks/2abuhsm6ouwzj.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#065f46","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0a1211","media":"(prefers-color-scheme: dark)"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Risalatu asy-Syukriyyah"}],["$","meta","1",{"name":"description","content":"Buku saku digital amaliyah santri: Al-Qur'an 30 juz, thaharah, shalat, puasa, zakat, dzikir, tahlil, istighatsah, shalawat, dan doa-doa pilihan. Diadaptasi dari Lawazim al-Murid (Risalah Syukriyyah) & Risalatul Ummah."}],["$","meta","2",{"name":"application-name","content":"Risalatu asy-Syukriyyah"}],["$","link","3",{"rel":"icon","href":"/risalatu-asy-syukriyyah/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Ld","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":"$12"}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+14:true
+a:300
+a:C
+13:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
