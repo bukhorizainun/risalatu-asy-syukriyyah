@@ -50,6 +50,6 @@ desktop.ini
 # source books
 *.docx
 
-# local agent instruction files (not committed)
-CLAUDE.md
-AGENTS.md
+# root-level markdown selain README tidak ikut di-commit
+/*.md
+!/README.md
