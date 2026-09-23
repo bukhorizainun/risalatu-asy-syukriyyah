@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Risalatu asy-Syukriyyah
 
-## Getting Started
+Buku saku digital amaliyah santri: Al-Qur'an 30 juz, thaharah, shalat, puasa, zakat, haji & qurban, dzikir, tahlil, istighatsah, shalawat, nikah & kelahiran, serta doa-doa pilihan, dengan teks Arab berharakat, transliterasi, dan terjemah Indonesia.
 
-First, run the development server:
+Isi diadaptasi dari:
+
+- **Lawazim al-Murid fi Dzikri Rabbihi al-Majid** (Risalah Syukriyyah, al-Ma'had al-'Ali ats-Tsaqafah), sumber utama
+- **Risalah Syukriyah** (edisi ringkas)
+- **Risalatul Ummah** (M. Raudho), untuk bacaan tambahan seperti talqin, fidyah, nikah, kelahiran, Rawi Marhaban, dan Ratib
+
+Bacaan yang tidak ada dalam kitab rujukan ditandai **Tambahan** dan diberi rujukan Al-Qur'an atau hadits.
+
+## Fitur
+
+- **Al-Qur'an**: 114 surah, bacaan per juz, dan tab *Surah Pilihan Kitab* (As-Sajdah, Yasin, Al-Waqi'ah, Al-Mulk). Teks, transliterasi, terjemah, dan murottal enam qari dari [equran.id](https://equran.id).
+- **Halaman per ibadah**: kartu penjelasan (fiqih ringkas) dan kartu doa. Kartu doa punya pilihan lafaz (misalnya niat munfarid/imam/makmum) dan susunan bacaan berurutan untuk tahlil, istighatsah, dan wirid.
+- **Tasbih digital**: tombol mengambang (3/7/11/33/100/∞) dan penghitung mini di setiap bacaan yang berulang.
+- Tombol salin, penanda (bookmark), dan catatan *terakhir dibaca*.
+- Slider ukuran huruf Arab (A-/A+), pilihan huruf Amiri atau Scheherazade New, tema terang/gelap/sistem, serta tombol tampil/sembunyi Latin dan terjemah.
+- Pencarian instan untuk doa, bacaan, dan surah (tekan `/`).
+- Tabel interaktif 99 Asmaul Husna dengan mode hafalan.
+
+## Teknologi
+
+Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 · Radix UI · Zustand · Lucide.
+
+## Menjalankan
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev        # http://localhost:3000
+npm run build && npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Struktur data
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Semua isi ada di `src/data/*.json`, satu file per ibadah. Setiap file berisi `sections` dengan `items` berupa:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- kartu penjelasan: `{ "kind": "guide", "title", "paragraphs" | "points" | "steps", "source" }`
+- kartu doa: `{ "title", "titleAr", "page", "arabic", "latin", "translation", "repeat", "variants", "segments", "source", "extra" }`
 
-## Learn More
+Ayat Al-Qur'an di dalam wirid ditulis sebagai rujukan, misalnya `{ "quran": "2:255" }`, lalu teksnya diambil dari `src/data/quran-snippets.json`.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+node scripts/fetch-quran-snippets.mjs   # perbarui teks ayat yang dirujuk
+node scripts/validate-data.mjs          # cek id ganda & rujukan ayat
+```

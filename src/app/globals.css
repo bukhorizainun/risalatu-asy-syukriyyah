@@ -1,26 +1,105 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fafaf9;
+  --surface: #ffffff;
+  --surface-2: #f5f5f4;
+  --foreground: #1c1917;
+  --muted: #78716c;
+  --border: #e7e5e4;
+  --primary: #065f46;
+  --primary-soft: #ecfdf5;
+  --primary-strong: #059669;
+  --gold: #b45309;
+  --gold-soft: #fef3c7;
+  --ring: #059669;
+  --shadow: 0 1px 2px rgb(28 25 23 / 0.04), 0 4px 16px -6px rgb(28 25 23 / 0.08);
+}
+
+.dark {
+  --background: #0a1211;
+  --surface: #0f1c1a;
+  --surface-2: #142522;
+  --foreground: #e7e5e4;
+  --muted: #a8a29e;
+  --border: #1e3230;
+  --primary: #34d399;
+  --primary-soft: #0f2a24;
+  --primary-strong: #10b981;
+  --gold: #f59e0b;
+  --gold-soft: #2a1f0a;
+  --ring: #34d399;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 20px -8px rgb(0 0 0 / 0.5);
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-primary: var(--primary);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-strong: var(--primary-strong);
+  --color-gold: var(--gold);
+  --color-gold-soft: var(--gold-soft);
+  --color-ring: var(--ring);
+  --font-sans: var(--font-jakarta);
+  --font-amiri: var(--font-amiri);
+  --font-scheherazade: var(--font-scheherazade);
+  --shadow-card: var(--shadow);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-padding-top: 9rem;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+}
+
+/* Teks Arab berharakat: line-height lega agar tasykil tidak bertumpuk */
+.arabic {
+  font-family: var(--arabic-font, var(--font-amiri)), "Amiri", serif;
+  direction: rtl;
+  line-height: 2.15;
+  font-feature-settings: "calt", "liga", "mark", "mkmk";
+  word-spacing: 0.06em;
+  text-rendering: optimizeLegibility;
+}
+
+.arabic-title {
+  font-family: var(--font-amiri), serif;
+  direction: rtl;
+}
+
+/* Pola geometri islami (bintang delapan) sebagai latar lembut */
+.pattern {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='56' height='56' viewBox='0 0 56 56'%3E%3Cg fill='none' stroke='%23ffffff' stroke-opacity='0.09' stroke-width='1'%3E%3Cpath d='M28 4l7 17 17 7-17 7-7 17-7-17-17-7 17-7z'/%3E%3Crect x='16' y='16' width='24' height='24' transform='rotate(45 28 28)'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+:target > article,
+article:target {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
 }
