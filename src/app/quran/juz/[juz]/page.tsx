@@ -7,7 +7,11 @@ import { AyahList, type AyahBlock } from "@/components/quran/ayah-list";
 import { surahs } from "@/lib/content";
 import { getSurah, juzRange } from "@/lib/quran";
 
-export const revalidate = 604800;
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return Array.from({ length: 30 }, (_, i) => ({ juz: String(i + 1) }));
+}
 
 export async function generateMetadata({ params }: PageProps<"/quran/juz/[juz]">): Promise<Metadata> {
   const { juz } = await params;

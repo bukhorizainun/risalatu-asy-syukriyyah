@@ -1,5 +1,7 @@
 # Risalatu asy-Syukriyyah
 
+**Situs:** https://bukhorizainun.github.io/risalatu-asy-syukriyyah/
+
 Buku saku digital amaliyah santri: Al-Qur'an 30 juz, thaharah, shalat, puasa, zakat, haji & qurban, dzikir, tahlil, istighatsah, shalawat, nikah & kelahiran, serta doa-doa pilihan, dengan teks Arab berharakat, transliterasi, dan terjemah Indonesia.
 
 Isi diadaptasi dari:
@@ -29,8 +31,16 @@ Next.js 16 (App Router) · TypeScript · Tailwind CSS v4 · Radix UI · Zustand 
 ```bash
 npm install
 npm run dev        # http://localhost:3000
-npm run build && npm start
+npm run build      # hasil statis di folder out/
 ```
+
+## Deploy ke GitHub Pages
+
+```bash
+npm run deploy
+```
+
+Perintah ini membangun situs statis (dengan base path nama repo) lalu menerbitkan folder `out/` ke branch `gh-pages`. Di pengaturan repo, *Settings, Pages* menggunakan sumber branch `gh-pages`.
 
 ## Struktur data
 

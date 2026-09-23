@@ -33,15 +33,24 @@ export const QARI: Record<string, string> = {
   "06": "Yasser Al-Dosari",
 };
 
-export async function getSurah(nomor: number): Promise<SurahDetail | null> {
-  try {
-    const res = await fetch(`${QURAN_API}/surat/${nomor}`, { next: { revalidate: 60 * 60 * 24 * 7 } });
-    if (!res.ok) return null;
-    const json = await res.json();
-    return json.data as SurahDetail;
-  } catch {
-    return null;
+const cache = new Map<number, Promise<SurahDetail | null>>();
+
+/** Mengambil satu surah (dengan cache & percobaan ulang) saat build statis. */
+export function getSurah(nomor: number): Promise<SurahDetail | null> {
+  if (!cache.has(nomor)) cache.set(nomor, fetchSurah(nomor));
+  return cache.get(nomor)!;
+}
+
+async function fetchSurah(nomor: number, attempts = 4): Promise<SurahDetail | null> {
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      const res = await fetch(`${QURAN_API}/surat/${nomor}`, { cache: "force-cache" });
+      if (res.ok) return (await res.json()).data as SurahDetail;
+    } catch {}
+    await new Promise((r) => setTimeout(r, 500 * i));
   }
+  // Gagalkan build daripada menerbitkan halaman surah kosong.
+  throw new Error(`Gagal mengambil surah ${nomor} dari ${QURAN_API}`);
 }
 
 /** Awal setiap juz (surah, ayat) menurut mushaf standar Madinah. */

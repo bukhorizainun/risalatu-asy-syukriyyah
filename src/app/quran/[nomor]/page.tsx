@@ -4,13 +4,13 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { TrackLastRead } from "@/components/last-read";
 import { AyahList } from "@/components/quran/ayah-list";
-import { SURAH_PILIHAN, surahs } from "@/lib/content";
+import { surahs } from "@/lib/content";
 import { getSurah, juzOf } from "@/lib/quran";
 
-export const revalidate = 604800;
+export const dynamicParams = false;
 
 export function generateStaticParams() {
-  return SURAH_PILIHAN.map((n) => ({ nomor: String(n) }));
+  return surahs.map((s) => ({ nomor: String(s.nomor) }));
 }
 
 export async function generateMetadata({ params }: PageProps<"/quran/[nomor]">): Promise<Metadata> {
