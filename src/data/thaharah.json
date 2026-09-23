@@ -1,0 +1,242 @@
+{
+  "slug": "thaharah",
+  "title": "Thaharah",
+  "titleAr": "الطَّهَارَة",
+  "description": "Bersuci: macam air & najis, istinja’, wudhu, tayamum, dan mandi wajib beserta niat dan doanya.",
+  "icon": "droplets",
+  "sections": [
+    {
+      "id": "pengantar",
+      "title": "Pengantar Thaharah",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "pengertian-thaharah",
+          "title": "Pengertian & Kedudukan Thaharah",
+          "paragraphs": [
+            "Thaharah secara bahasa berarti bersih, dan secara syariat berarti mengerjakan sesuatu yang menjadikan seseorang boleh melakukan shalat, seperti wudhu, mandi, tayamum, dan menghilangkan najis.",
+            "Thaharah adalah kunci shalat. Rasulullah ﷺ bersabda: “Kunci shalat adalah bersuci.” (HR. Abu Dawud & Tirmidzi). Allah juga berfirman: “Sesungguhnya Allah menyukai orang-orang yang bertobat dan menyukai orang-orang yang menyucikan diri.” (QS Al-Baqarah: 222)"
+          ],
+          "source": "Safinatun Najah; Fathul Qarib"
+        },
+        {
+          "kind": "guide",
+          "id": "macam-air",
+          "title": "Macam-Macam Air",
+          "points": [
+            "Air muthlaq (suci & menyucikan): air hujan, laut, sungai, sumur, mata air, salju, dan embun. Sah dipakai bersuci.",
+            "Air musyammas (dipanaskan terik matahari dalam wadah logam selain emas/perak): suci menyucikan, tetapi makruh dipakai untuk badan.",
+            "Air musta’mal (sudah dipakai bersuci wajib dan kurang dari dua qullah): suci tetapi tidak menyucikan.",
+            "Air mutaghayyir (berubah warna, rasa, atau baunya karena bercampur benda suci yang banyak): suci tetapi tidak menyucikan.",
+            "Air mutanajjis (terkena najis): bila kurang dari dua qullah, najis walau tidak berubah; bila dua qullah atau lebih, najis jika berubah sifatnya. Dua qullah ± 216 liter (menurut sebagian ulama ± 270 liter)."
+          ],
+          "source": "Fathul Qarib, Kitab Thaharah"
+        },
+        {
+          "kind": "guide",
+          "id": "macam-najis",
+          "title": "Macam Najis & Cara Menyucikannya",
+          "points": [
+            "Najis mughallazhah (berat): anjing, babi, dan keturunannya. Dibasuh tujuh kali, salah satunya dicampur debu yang suci.",
+            "Najis mukhaffafah (ringan): air kencing bayi laki-laki di bawah dua tahun yang belum makan selain ASI. Cukup dipercikkan air hingga merata.",
+            "Najis mutawassithah (sedang): selain keduanya, seperti darah, nanah, kotoran, dan bangkai. Dibasuh hingga hilang zat, warna, bau, dan rasanya.",
+            "Najis yang sulit dihilangkan warnanya atau baunya (salah satu saja) dimaafkan setelah digosok dan dibasuh."
+          ],
+          "source": "Safinatun Najah, fasal najis"
+        },
+        {
+          "kind": "guide",
+          "id": "istinja",
+          "title": "Istinja’ & Adab Buang Hajat",
+          "points": [
+            "Istinja’ wajib dari setiap kotoran yang keluar dari qubul atau dubur. Paling utama dengan batu lalu diikuti air; boleh cukup dengan air saja, atau cukup batu minimal tiga usapan hingga bersih bila kotoran belum kering dan tidak melampaui tempat keluarnya.",
+            "Masuk kamar mandi dengan kaki kiri dan keluar dengan kaki kanan sambil membaca doa.",
+            "Tidak menghadap atau membelakangi kiblat di tempat terbuka, tidak berbicara, dan tidak membawa sesuatu bertuliskan nama Allah.",
+            "Tidak buang hajat di air yang tenang, di bawah pohon berbuah, di jalan, atau di tempat berteduh."
+          ],
+          "source": "Safinatun Najah; HR. Bukhari & Muslim"
+        }
+      ]
+    },
+    {
+      "id": "wudhu",
+      "title": "Wudhu",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "fardhu-wudhu",
+          "title": "Fardhu (Rukun) Wudhu",
+          "steps": [
+            "Niat ketika pertama kali membasuh wajah.",
+            "Membasuh seluruh wajah (dari tumbuhnya rambut kepala sampai bawah dagu, dan dari telinga ke telinga).",
+            "Membasuh kedua tangan sampai siku.",
+            "Mengusap sebagian kepala.",
+            "Membasuh kedua kaki sampai mata kaki.",
+            "Tertib (berurutan)."
+          ],
+          "source": "QS Al-Ma’idah: 6; Safinatun Najah"
+        },
+        {
+          "kind": "guide",
+          "id": "sunnah-wudhu",
+          "title": "Sunnah-Sunnah Wudhu",
+          "points": [
+            "Membaca basmalah dan bersiwak sebelum wudhu.",
+            "Membasuh kedua telapak tangan, berkumur, dan istinsyaq (menghirup air ke hidung).",
+            "Mengusap seluruh kepala dan kedua telinga.",
+            "Menyela-nyela jari tangan, jari kaki, dan jenggot yang tebal.",
+            "Mendahulukan anggota kanan, mengulang tiga kali, dan muwalah (tidak berjeda lama).",
+            "Menghadap kiblat dan membaca doa setelah wudhu."
+          ]
+        },
+        {
+          "kind": "guide",
+          "id": "pembatal-wudhu",
+          "title": "Yang Membatalkan Wudhu",
+          "steps": [
+            "Keluarnya sesuatu dari qubul atau dubur, selain mani.",
+            "Hilang akal karena tidur (yang tidak menetapkan pantat), pingsan, gila, atau mabuk.",
+            "Bersentuhan kulit laki-laki dan perempuan dewasa yang bukan mahram tanpa penghalang.",
+            "Menyentuh kemaluan atau lingkar dubur dengan telapak tangan atau bagian dalam jari."
+          ],
+          "source": "Safinatun Najah"
+        },
+        {
+          "id": "doa-sebelum-wudhu",
+          "title": "Doa Sebelum Wudhu",
+          "titleAr": "دعاء قبل الوضوء",
+          "page": 21,
+          "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+          "latin": "Bismillāhir-raḥmānir-raḥīm.",
+          "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+          "source": "HR. Abu Dawud & Ibnu Majah"
+        },
+        {
+          "id": "niat-wudhu",
+          "title": "Niat Wudhu",
+          "titleAr": "نية الوضوء",
+          "page": 21,
+          "arabic": "نَوَيْتُ الْوُضُوْءَ لِرَفْعِ الْحَدَثِ الْأَصْغَرِ فَرْضًا لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitul-wuḍū’a li raf‘il-ḥadatsil-aṣghari farḍan lillāhi ta‘ālā.",
+          "translation": "Aku berniat wudhu untuk menghilangkan hadas kecil, fardhu karena Allah Ta‘ala."
+        },
+        {
+          "id": "doa-setelah-wudhu",
+          "title": "Doa Setelah Wudhu",
+          "titleAr": "دعاء بعد الوضوء",
+          "page": 22,
+          "arabic": "أَشْهَدُ أَنْ لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ، اَللّٰهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ، وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ، وَاجْعَلْنِيْ مِنْ عِبَادِكَ الصَّالِحِيْنَ",
+          "latin": "Asyhadu an lā ilāha illallāhu waḥdahū lā syarīka lah, wa asyhadu anna Muḥammadan ‘abduhū wa rasūluh. Allāhummaj‘alnī minat-tawwābīn, waj‘alnī minal-mutaṭahhirīn, waj‘alnī min ‘ibādikaṣ-ṣāliḥīn.",
+          "translation": "Aku bersaksi bahwa tiada Tuhan selain Allah Yang Maha Esa, tiada sekutu bagi-Nya, dan aku bersaksi bahwa Muhammad adalah hamba dan utusan-Nya. Ya Allah, jadikanlah aku termasuk orang-orang yang bertobat, jadikanlah aku termasuk orang-orang yang menyucikan diri, dan jadikanlah aku termasuk hamba-hamba-Mu yang saleh.",
+          "source": "HR. Muslim & Tirmidzi"
+        }
+      ]
+    },
+    {
+      "id": "tayamum",
+      "title": "Tayamum",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "tentang-tayamum",
+          "title": "Sebab, Syarat & Rukun Tayamum",
+          "paragraphs": [
+            "Tayamum adalah mengusapkan debu yang suci ke wajah dan kedua tangan sebagai pengganti wudhu atau mandi, karena tidak ada air, sakit yang berbahaya bila terkena air, atau air hanya cukup untuk kebutuhan minum yang dihormati."
+          ],
+          "points": [
+            "Syarat: masuk waktu shalat, sudah mencari air (bagi yang tidak menemukan), debu suci & berdebu, dan sudah menghilangkan najis di badan.",
+            "Rukun: (1) memindahkan debu, (2) niat bersamaan dengan memindahkan debu dan mengusap wajah, (3) mengusap wajah, (4) mengusap kedua tangan sampai siku, (5) tertib.",
+            "Satu kali tayamum hanya untuk satu shalat fardhu, tetapi boleh untuk beberapa shalat sunnah."
+          ],
+          "source": "QS An-Nisa’: 43; Safinatun Najah"
+        },
+        {
+          "id": "niat-tayamum",
+          "title": "Niat Tayamum",
+          "titleAr": "نية التيمم",
+          "page": 22,
+          "arabic": "نَوَيْتُ التَّيَمُّمَ لِاسْتِبَاحَةِ فَرْضِ الصَّلَاةِ لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitut-tayammuma li istibāḥati farḍiṣ-ṣalāti lillāhi ta‘ālā.",
+          "translation": "Aku berniat tayamum agar diperbolehkan melaksanakan shalat fardhu karena Allah Ta‘ala."
+        }
+      ]
+    },
+    {
+      "id": "mandi",
+      "title": "Mandi Wajib & Sunnah",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "sebab-mandi",
+          "title": "Sebab Wajib Mandi & Rukunnya",
+          "points": [
+            "Sebab wajib mandi: (1) bersetubuh, (2) keluar mani, (3) meninggal dunia (bukan syahid), (4) haid, (5) nifas, (6) melahirkan.",
+            "Rukun mandi: (1) niat, (2) meratakan air ke seluruh kulit dan rambut.",
+            "Sunnah mandi: membaca basmalah, berwudhu sebelum mandi, menggosok badan, mendahulukan anggota kanan, dan mengulang tiga kali."
+          ],
+          "source": "Safinatun Najah"
+        },
+        {
+          "id": "niat-mandi-wajib",
+          "title": "Niat Mandi Wajib",
+          "titleAr": "نية الغسل الواجب",
+          "page": 22,
+          "arabic": "نَوَيْتُ الْغُسْلَ لِرَفْعِ الْحَدَثِ الْأَكْبَرِ فَرْضًا لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitul-ghusla li raf‘il-ḥadatsil-akbari farḍan lillāhi ta‘ālā.",
+          "translation": "Aku berniat mandi untuk menghilangkan hadas besar, fardhu karena Allah Ta‘ala."
+        },
+        {
+          "id": "niat-mandi-haid-nifas",
+          "title": "Niat Mandi Setelah Haid / Nifas",
+          "extra": true,
+          "variants": [
+            {
+              "label": "Haid",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِرَفْعِ حَدَثِ الْحَيْضِ فَرْضًا لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla li raf‘i ḥadatsil-ḥaiḍi farḍan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk menghilangkan hadas haid, fardhu karena Allah Ta‘ala."
+            },
+            {
+              "label": "Nifas",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِرَفْعِ حَدَثِ النِّفَاسِ فَرْضًا لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla li raf‘i ḥadatsin-nifāsi farḍan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk menghilangkan hadas nifas, fardhu karena Allah Ta‘ala."
+            }
+          ]
+        },
+        {
+          "id": "niat-mandi-sunnah",
+          "title": "Niat Mandi Sunnah",
+          "extra": true,
+          "note": "Niat mandi hari raya dimuat dalam Risalatul Ummah.",
+          "variants": [
+            {
+              "label": "Jum‘at",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِيَوْمِ الْجُمُعَةِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla li yaumil-jumu‘ati sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk hari Jum‘at, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Idul Fitri",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِعِيْدِ الْفِطْرِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla li ‘īdil-fiṭri sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk hari raya Idul Fitri, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Idul Adha",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِعِيْدِ الْأَضْحٰى سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla li ‘īdil-aḍḥā sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk hari raya Idul Adha, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Ihram",
+              "arabic": "نَوَيْتُ الْغُسْلَ لِلْإِحْرَامِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitul-ghusla lil-iḥrāmi sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat mandi untuk ihram, sunnah karena Allah Ta‘ala."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

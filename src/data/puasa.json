@@ -1,0 +1,287 @@
+{
+  "slug": "puasa",
+  "title": "Puasa & Hari Raya",
+  "titleAr": "الصِّيَام وَالْعِيْد",
+  "description": "Ketentuan puasa, niat puasa wajib & sunnah, doa berbuka, malam Lailatul Qadar, takbiran, dan bilal hari raya.",
+  "icon": "moon",
+  "sections": [
+    {
+      "id": "ketentuan",
+      "title": "Ketentuan Puasa",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "dalil-puasa",
+          "title": "Kewajiban Puasa Ramadhan",
+          "paragraphs": [
+            "Puasa (shaum) adalah menahan diri dari segala yang membatalkan sejak terbit fajar hingga terbenam matahari disertai niat. Puasa Ramadhan wajib atas setiap muslim yang baligh, berakal, dan mampu."
+          ],
+          "source": "QS Al-Baqarah: 183–185; Safinatun Najah"
+        },
+        {
+          "kind": "guide",
+          "id": "syarat-rukun-puasa",
+          "title": "Syarat & Rukun Puasa",
+          "points": [
+            "Syarat wajib: Islam, baligh, berakal, mampu, dan mukim (tidak bepergian).",
+            "Syarat sah: Islam, tamyiz, suci dari haid dan nifas, dan pada hari yang boleh berpuasa (bukan dua hari raya dan hari tasyriq).",
+            "Rukun: (1) niat pada malam hari untuk puasa wajib (tabyit), (2) menahan diri dari hal yang membatalkan sejak fajar hingga maghrib."
+          ],
+          "source": "Safinatun Najah"
+        },
+        {
+          "kind": "guide",
+          "id": "pembatal-puasa",
+          "title": "Yang Membatalkan Puasa",
+          "points": [
+            "Masuknya sesuatu ke rongga tubuh (jauf) melalui lubang yang terbuka dengan sengaja.",
+            "Muntah dengan sengaja.",
+            "Bersetubuh dengan sengaja (wajib qadha dan kafarat).",
+            "Keluar mani karena bersentuhan kulit.",
+            "Haid, nifas, gila, dan murtad."
+          ],
+          "source": "Safinatun Najah"
+        },
+        {
+          "kind": "guide",
+          "id": "sunnah-puasa",
+          "title": "Sunnah-Sunnah Puasa",
+          "points": [
+            "Makan sahur dan mengakhirkannya.",
+            "Menyegerakan berbuka dengan kurma atau air, lalu membaca doa berbuka.",
+            "Memberi makan orang yang berbuka, memperbanyak sedekah, tadarus Al-Qur’an, dan i‘tikaf, terutama di sepuluh malam terakhir.",
+            "Menjaga lisan dari ghibah, dusta, dan perkataan sia-sia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "niat-puasa",
+      "title": "Niat Puasa",
+      "items": [
+        {
+          "id": "niat-puasa-ramadhan",
+          "title": "Niat Puasa Ramadhan",
+          "extra": true,
+          "source": "Risalatul Ummah; I‘anatut Thalibin 2/253",
+          "note": "Kata رَمَضَانِ dibaca kasrah (jar) karena menjadi mudhaf kepada kata setelahnya (isim isyarah هٰذِهِ), sebagaimana dijelaskan dalam I‘anatut Thalibin. Niat puasa wajib harus dilakukan pada malam hari sebelum fajar.",
+          "arabic": "نَوَيْتُ صَوْمَ غَدٍ عَنْ أَدَاءِ فَرْضِ شَهْرِ رَمَضَانِ هٰذِهِ السَّنَةِ إِيْمَانًا وَاحْتِسَابًا لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitu ṣauma ghadin ‘an adā’i farḍi syahri ramaḍāni hādzihis-sanati īmānan waḥtisāban lillāhi ta‘ālā.",
+          "translation": "Aku berniat puasa esok hari untuk menunaikan kewajiban bulan Ramadhan tahun ini, dengan iman dan mengharap pahala, karena Allah Ta‘ala."
+        },
+        {
+          "id": "niat-puasa-sebulan",
+          "title": "Niat Puasa Sebulan Penuh (Madzhab Maliki)",
+          "extra": true,
+          "note": "Dibaca pada malam pertama Ramadhan sebagai langkah hati-hati bila suatu malam lupa berniat (taqlid kepada Imam Malik).",
+          "arabic": "نَوَيْتُ صَوْمَ جَمِيْعِ شَهْرِ رَمَضَانِ هٰذِهِ السَّنَةِ تَقْلِيْدًا لِلْإِمَامِ مَالِكٍ فَرْضًا لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitu ṣauma jamī‘i syahri ramaḍāni hādzihis-sanati taqlīdan lil-imāmi Mālikin farḍan lillāhi ta‘ālā.",
+          "translation": "Aku berniat puasa sebulan penuh bulan Ramadhan tahun ini mengikuti Imam Malik, fardhu karena Allah Ta‘ala."
+        },
+        {
+          "id": "niat-puasa-qadha",
+          "title": "Niat Qadha Puasa Ramadhan",
+          "extra": true,
+          "arabic": "نَوَيْتُ صَوْمَ غَدٍ عَنْ قَضَاءِ فَرْضِ شَهْرِ رَمَضَانَ لِلّٰهِ تَعَالٰى",
+          "latin": "Nawaitu ṣauma ghadin ‘an qaḍā’i farḍi syahri ramaḍāna lillāhi ta‘ālā.",
+          "translation": "Aku berniat puasa esok hari untuk mengqadha fardhu bulan Ramadhan karena Allah Ta‘ala."
+        },
+        {
+          "id": "niat-puasa-sunnah",
+          "title": "Niat Puasa Sunnah",
+          "extra": true,
+          "note": "Niat puasa sunnah boleh dilakukan pada siang hari sebelum tergelincir matahari, selama belum melakukan hal yang membatalkan. Niat puasa enam hari Syawal dimuat dalam Risalatul Ummah.",
+          "variants": [
+            {
+              "label": "Syawal",
+              "arabic": "نَوَيْتُ صَوْمَ غَدٍ مِنْ شَوَّالٍ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma ghadin min syawwālin sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa esok hari dari bulan Syawal, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Senin",
+              "arabic": "نَوَيْتُ صَوْمَ يَوْمِ الْاِثْنَيْنِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma yaumil-itsnaini sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa hari Senin, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Kamis",
+              "arabic": "نَوَيْتُ صَوْمَ يَوْمِ الْخَمِيْسِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma yaumil-khamīsi sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa hari Kamis, sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Ayyamul Bidh",
+              "arabic": "نَوَيْتُ صَوْمَ أَيَّامِ الْبِيْضِ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma ayyāmil-bīḍi sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa hari-hari putih (tanggal 13, 14, 15 Hijriyah), sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Arafah",
+              "arabic": "نَوَيْتُ صَوْمَ عَرَفَةَ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma ‘arafata sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa Arafah (9 Dzulhijjah), sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "Tasu‘a",
+              "arabic": "نَوَيْتُ صَوْمَ تَاسُوْعَاءَ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma tāsū‘ā’a sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa Tasu‘a (9 Muharram), sunnah karena Allah Ta‘ala."
+            },
+            {
+              "label": "‘Asyura",
+              "arabic": "نَوَيْتُ صَوْمَ عَاشُوْرَاءَ سُنَّةً لِلّٰهِ تَعَالٰى",
+              "latin": "Nawaitu ṣauma ‘āsyūrā’a sunnatan lillāhi ta‘ālā.",
+              "translation": "Aku berniat puasa ‘Asyura (10 Muharram), sunnah karena Allah Ta‘ala."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "berbuka",
+      "title": "Berbuka & Malam Ramadhan",
+      "items": [
+        {
+          "id": "doa-buka-puasa",
+          "title": "Doa Berbuka Puasa",
+          "extra": true,
+          "segments": [
+            {
+              "label": "Versi Risalatul Ummah",
+              "note": "Riwayat Abu Dawud (mursal) dengan tambahan.",
+              "arabic": "اَللّٰهُمَّ لَكَ صُمْتُ، وَبِكَ اٰمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَعَلٰى رِزْقِكَ أَفْطَرْتُ، يَا وَاسِعَ الْمَغْفِرَةِ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ",
+              "latin": "Allāhumma laka ṣumtu, wa bika āmantu, wa ‘alaika tawakkaltu, wa ‘alā rizqika afṭartu, yā wāsi‘al-maghfirah, bi raḥmatika yā arḥamar-rāḥimīn.",
+              "translation": "Ya Allah, karena-Mu aku berpuasa, kepada-Mu aku beriman, kepada-Mu aku bertawakal, dan dengan rezeki-Mu aku berbuka, wahai Yang Mahaluas ampunan-Nya, dengan rahmat-Mu wahai Yang Maha Penyayang."
+            },
+            {
+              "label": "Riwayat Abu Dawud (hasan)",
+              "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوْقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللّٰهُ",
+              "latin": "Dzahabaẓ-ẓama’u wabtallatil-‘urūqu wa tsabatal-ajru in syā’allāh.",
+              "translation": "Telah hilang rasa haus, urat-urat telah basah, dan pahala telah tetap, insya Allah."
+            }
+          ],
+          "note": "Risalah Syukriyah dan Risalatul Ummah memuat kedua versi doa berbuka ini."
+        },
+        {
+          "id": "doa-lailatul-qadar",
+          "title": "Doa Malam Lailatul Qadar",
+          "extra": true,
+          "source": "HR. Tirmidzi & Ibnu Majah (dari ‘Aisyah ra.)",
+          "note": "Diperbanyak pada sepuluh malam terakhir Ramadhan, terutama malam-malam ganjil.",
+          "repeat": 33,
+          "arabic": "اَللّٰهُمَّ إِنَّكَ عَفُوٌّ كَرِيْمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّيْ",
+          "latin": "Allāhumma innaka ‘afuwwun karīmun tuḥibbul-‘afwa fa‘fu ‘annī.",
+          "translation": "Ya Allah, sesungguhnya Engkau Maha Pemaaf lagi Maha Mulia, Engkau suka memaafkan, maka maafkanlah aku."
+        },
+        {
+          "id": "surah-al-qadr",
+          "title": "Surah Al-Qadr",
+          "extra": true,
+          "segments": [
+            {
+              "quran": "97:1-5",
+              "label": "QS Al-Qadr: 1-5"
+            }
+          ],
+          "link": {
+            "href": "/quran/97",
+            "label": "Buka surah & audio"
+          }
+        },
+        {
+          "id": "tarawih-link",
+          "title": "Tarawih, Witir & Doa Kamilin",
+          "note": "Niat, bilal, doa kamilin, dan doa witir Ramadhan tersedia di halaman Shalat.",
+          "link": {
+            "href": "/ibadah/shalat#tarawih-witir",
+            "label": "Buka Tarawih & Witir"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hari-raya",
+      "title": "Hari Raya (Idul Fitri & Idul Adha)",
+      "items": [
+        {
+          "id": "lafadz-takbiran",
+          "title": "Lafadz Takbiran",
+          "extra": true,
+          "source": "Risalatul Ummah hlm. 58",
+          "note": "Takbir mursal dibaca sejak terbenam matahari malam hari raya hingga imam memulai shalat ‘Id. Pada Idul Adha, takbir muqayyad dibaca setelah shalat sejak Subuh hari Arafah hingga Ashar hari tasyriq terakhir.",
+          "segments": [
+            {
+              "arabic": "اَللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ، لَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+              "latin": "Allāhu akbar, Allāhu akbar, Allāhu akbar, lā ilāha illallāhu wallāhu akbar, Allāhu akbar wa lillāhil-ḥamd.",
+              "translation": "Allah Mahabesar (3x), tiada Tuhan selain Allah, Allah Mahabesar, Allah Mahabesar dan segala puji bagi Allah."
+            },
+            {
+              "arabic": "اَللّٰهُ أَكْبَرُ كَبِيْرًا، وَالْحَمْدُ لِلّٰهِ كَثِيْرًا، وَسُبْحَانَ اللّٰهِ بُكْرَةً وَأَصِيْلًا، لَا إِلٰهَ إِلَّا اللّٰهُ وَلَا نَعْبُدُ إِلَّا إِيَّاهُ، مُخْلِصِيْنَ لَهُ الدِّيْنَ وَلَوْ كَرِهَ الْكَافِرُوْنَ، وَلَوْ كَرِهَ الْمُنَافِقُوْنَ، وَلَوْ كَرِهَ الْمُشْرِكُوْنَ، لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ، صَدَقَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَأَعَزَّ جُنْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ، لَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+              "latin": "Allāhu akbaru kabīrā, walḥamdu lillāhi katsīrā, wa subḥānallāhi bukratan wa aṣīlā, lā ilāha illallāhu wa lā na‘budu illā iyyāh, mukhliṣīna lahud-dīna walau karihal-kāfirūn, walau karihal-munāfiqūn, walau karihal-musyrikūn, lā ilāha illallāhu waḥdah, ṣadaqa wa‘dah, wa naṣara ‘abdah, wa a‘azza jundah, wa hazamal-aḥzāba waḥdah, lā ilāha illallāhu wallāhu akbar, Allāhu akbar wa lillāhil-ḥamd.",
+              "translation": "Allah Mahabesar dengan sebesar-besarnya, segala puji bagi Allah sebanyak-banyaknya, Mahasuci Allah pagi dan petang. Tiada Tuhan selain Allah dan kami tidak menyembah kecuali kepada-Nya dengan memurnikan agama bagi-Nya, walaupun orang-orang kafir, munafik, dan musyrik membencinya. Tiada Tuhan selain Allah Yang Maha Esa, yang menepati janji-Nya, menolong hamba-Nya, memuliakan tentara-Nya, dan mengalahkan golongan-golongan musuh sendirian."
+            }
+          ]
+        },
+        {
+          "id": "bilal-id",
+          "title": "Bilal Shalat ‘Id",
+          "extra": true,
+          "source": "Risalatul Ummah hlm. 57",
+          "segments": [
+            {
+              "label": "Sebelum shalat (berdiri)",
+              "repeat": 3,
+              "arabic": "صَلُّوْا سُنَّةً لِعِيْدِ الْفِطْرِ (لِعِيْدِ الْأَضْحٰى) رَكْعَتَيْنِ جَامِعَةً رَحِمَكُمُ اللّٰهُ",
+              "latin": "Ṣallū sunnatan li ‘īdil-fiṭri (li ‘īdil-aḍḥā) rak‘ataini jāmi‘atan raḥimakumullāh.",
+              "translation": "Shalatlah kalian shalat sunnah Idul Fitri (Idul Adha) dua rakaat berjamaah, semoga Allah merahmati kalian."
+            },
+            {
+              "label": "Jawaban jamaah",
+              "arabic": "اَلصَّلَاةُ لَا إِلٰهَ إِلَّا اللّٰهُ مُحَمَّدٌ رَسُوْلُ اللّٰهِ",
+              "latin": "Aṣ-ṣalātu lā ilāha illallāhu Muḥammadur rasūlullāh."
+            },
+            {
+              "label": "Sebelum khutbah",
+              "quran": "33:56"
+            },
+            {
+              "label": "Khatib naik mimbar, bilal menghadap jamaah",
+              "arabic": "مَعَاشِرَ الْمُسْلِمِيْنَ وَزُمْرَةَ الْمُؤْمِنِيْنَ رَحِمَكُمُ اللّٰهُ، أَنْصِتُوْا وَاسْمَعُوْا وَأَطِيْعُوْا جَامِعَةً رَحِمَكُمُ اللّٰهُ ×٣، أَطِيْعُوْا لَا إِلٰهَ إِلَّا اللّٰهُ مُحَمَّدٌ رَسُوْلُ اللّٰهِ",
+              "latin": "Ma‘āsyiral-muslimīna wa zumratal-mu’minīna raḥimakumullāh, anṣitū wasma‘ū wa aṭī‘ū jāmi‘atan raḥimakumullāh ×3, aṭī‘ū lā ilāha illallāhu Muḥammadur rasūlullāh."
+            },
+            {
+              "label": "Doa",
+              "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ فِي الْأَوَّلِيْنَ وَالْاٰخِرِيْنَ، وَبَارِكْ وَسَلِّمْ، وَرَضِيَ اللّٰهُ تَعَالٰى عَنْ كُلِّ صَحَابَةِ رَسُوْلِ اللّٰهِ أَجْمَعِيْنَ. اَللّٰهُمَّ قَوِّ الْإِسْلَامَ مِنَ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ، وَسَيِّرْ مِنْهُمْ سَيْرًا مَنْ تَمَسَّكَ بِالدِّيْنِ الْقَوِيْمِ، رَبِّ اجْعَلْنَا مِنْكَ بِخَيْرٍ، يَا خَيْرَ النَّاصِرِيْنَ بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ، بِفَضْلِكَ سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَ، وَسَلَامٌ عَلَى الْمُرْسَلِيْنَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+              "latin": "Allāhumma ṣalli ‘alā sayyidinā Muḥammadin fil-awwalīna wal-ākhirīn, wa bārik wa sallim, wa raḍiyallāhu ta‘ālā ‘an kulli ṣaḥābati rasūlillāhi ajma‘īn. Allāhumma qawwil-islāma minal-muslimīna wal-muslimāti wal-mu’minīna wal-mu’mināt, wa sayyir minhum sairan man tamassaka bid-dīnil-qawīm, rabbij‘alnā minka bi khair, yā khairan-nāṣirīna bi raḥmatika yā arḥamar-rāḥimīn…"
+            },
+            {
+              "label": "Setelah shalat selesai, bilal berdiri menghadap jamaah (versi Risalah Syukriyah)",
+              "arabic": "مَعَاشِرَ الْمُسْلِمِيْنَ وَزُمْرَةَ الْمُؤْمِنِيْنَ رَحِمَكُمُ اللّٰهُ، اِعْلَمُوْا أَنَّ يَوْمَكُمْ هٰذَا يَوْمُ عِيْدِ الْفِطْرِ، وَيَوْمُ السُّرُوْرِ، وَيَوْمُ الْمَغْفُوْرِ، أَحَلَّ اللّٰهُ لَكُمْ فِيْهِ الطَّعَامَ، وَحَرَّمَ عَلَيْكُمْ فِيْهِ الصِّيَامَ، إِذَا صَعِدَ الْخَطِيْبُ عَلَى الْمِنْبَرِ، أَنْصِتُوْا وَاسْمَعُوْا وَأَطِيْعُوْا رَحِمَكُمُ اللّٰهُ، أَنْصِتُوْا وَاسْمَعُوْا وَأَطِيْعُوْا لَعَلَّكُمْ تُرْحَمُوْنَ",
+              "latin": "Ma‘āsyiral-muslimīna wa zumratal-mu’minīna raḥimakumullāh, i‘lamū anna yaumakum hādzā yaumu ‘īdil-fiṭri, wa yaumus-surūr, wa yaumul-maghfūr, aḥallallāhu lakum fīhiṭ-ṭa‘ām, wa ḥarrama ‘alaikum fīhiṣ-ṣiyām, idzā ṣa‘idal-khaṭību ‘alal-minbar, anṣitū wasma‘ū wa aṭī‘ū raḥimakumullāh, anṣitū wasma‘ū wa aṭī‘ū la‘allakum turḥamūn.",
+              "translation": "Wahai kaum muslimin dan golongan orang-orang mukmin, semoga Allah merahmati kalian. Ketahuilah bahwa hari ini adalah hari raya Idul Fitri, hari kegembiraan, dan hari pengampunan; Allah menghalalkan makan bagi kalian dan mengharamkan puasa pada hari ini. Apabila khatib telah naik mimbar, diamlah, dengarkanlah, dan taatlah, semoga kalian dirahmati."
+            }
+          ]
+        },
+        {
+          "id": "shalat-id-link",
+          "title": "Tata Cara Shalat ‘Id",
+          "note": "Niat dan tata cara shalat Idul Fitri & Idul Adha ada di halaman Shalat; niat mandi hari raya di halaman Thaharah.",
+          "link": {
+            "href": "/ibadah/shalat#shalat-id",
+            "label": "Buka tata cara shalat ‘Id"
+          }
+        },
+        {
+          "id": "ucapan-hari-raya",
+          "title": "Ucapan Selamat Hari Raya",
+          "extra": true,
+          "source": "Diamalkan para sahabat (riwayat Jubair bin Nufair, dinilai hasan oleh Ibnu Hajar)",
+          "arabic": "تَقَبَّلَ اللّٰهُ مِنَّا وَمِنْكُمْ",
+          "latin": "Taqabbalallāhu minnā wa minkum.",
+          "translation": "Semoga Allah menerima (amal ibadah) dari kami dan dari kalian."
+        }
+      ]
+    }
+  ]
+}

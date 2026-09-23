@@ -1,0 +1,298 @@
+{
+  "slug": "doa-khusus",
+  "title": "Doa Khusus & Pilihan",
+  "titleAr": "الأدعية المختارة",
+  "description": "Sayyidul Istighfar, doa akhir & awal tahun, bulan Rajab, malam Nisfu Sya‘ban, Mukhtaratul Ad‘iyah, wirid Syaikh Abu Bakar bin Salim, dan doa-doa Al-Qur’an.",
+  "icon": "calendar",
+  "sections": [
+    {
+      "id": "istighfar",
+      "title": "Istighfar",
+      "items": [
+        {
+          "id": "sayyidul-istighfar",
+          "title": "Sayyidul Istighfar",
+          "titleAr": "سيد الاستغفار",
+          "page": 109,
+          "source": "HR. Bukhari (lafaz asli dengan dhamir tunggal); kitab memuat lafaz jamak",
+          "note": "“Barang siapa membacanya di siang hari dengan yakin lalu wafat sebelum sore, ia termasuk ahli surga; dan barang siapa membacanya di malam hari dengan yakin lalu wafat sebelum pagi, ia termasuk ahli surga.”",
+          "variants": [
+            {
+              "label": "Lafaz kitab (jamak)",
+              "arabic": "اَللّٰهُمَّ أَنْتَ رَبُّنَا لَا إِلٰهَ إِلَّا أَنْتَ، خَلَقْتَنَا وَنَحْنُ عِبَادُكَ، وَنَحْنُ عَلٰى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْنَا، نَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْنَا، نَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيْنَا، وَنَبُوْءُ لَكَ بِذُنُوْبِنَا، فَاغْفِرْ لَنَا فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
+              "latin": "Allāhumma anta rabbunā lā ilāha illā ant, khalaqtanā wa naḥnu ‘ibāduk, wa naḥnu ‘alā ‘ahdika wa wa‘dika mastaṭa‘nā, na‘ūdzu bika min syarri mā ṣana‘nā, nabū’u laka bi ni‘matika ‘alainā, wa nabū’u laka bi dzunūbinā, faghfir lanā fa innahū lā yaghfirudz-dzunūba illā ant.",
+              "translation": "Ya Allah, Engkaulah Tuhan kami, tiada Tuhan selain Engkau. Engkau telah menciptakan kami dan kami adalah hamba-Mu. Kami berada di atas janji dan ikrar kami kepada-Mu semampu kami. Kami berlindung kepada-Mu dari keburukan perbuatan kami. Kami mengakui nikmat-Mu atas kami dan mengakui dosa-dosa kami, maka ampunilah kami, karena tidak ada yang mengampuni dosa selain Engkau."
+            },
+            {
+              "label": "Lafaz hadits (tunggal)",
+              "arabic": "اَللّٰهُمَّ أَنْتَ رَبِّيْ لَا إِلٰهَ إِلَّا أَنْتَ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ، وَأَنَا عَلٰى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوْءُ بِذَنْبِيْ، فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ",
+              "latin": "Allāhumma anta rabbī lā ilāha illā ant, khalaqtanī wa ana ‘abduk, wa ana ‘alā ‘ahdika wa wa‘dika mastaṭa‘t, a‘ūdzu bika min syarri mā ṣana‘t, abū’u laka bi ni‘matika ‘alayy, wa abū’u bi dzanbī, faghfir lī fa innahū lā yaghfirudz-dzunūba illā ant.",
+              "translation": "Ya Allah, Engkaulah Tuhanku, tiada Tuhan selain Engkau. Engkau menciptakanku dan aku hamba-Mu… maka ampunilah aku, karena tidak ada yang mengampuni dosa selain Engkau."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pergantian-tahun",
+      "title": "Akhir & Awal Tahun Hijriyah",
+      "items": [
+        {
+          "id": "doa-akhir-tahun",
+          "title": "Doa Akhir Tahun",
+          "titleAr": "دعاء آخر السنة",
+          "page": 110,
+          "repeat": 3,
+          "note": "Dibaca 3x pada akhir bulan Dzulhijjah, sesudah Ashar atau sebelum Maghrib (Risalatul Ummah).",
+          "arabic": "أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ، اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ. اَللّٰهُمَّ مَا عَمِلْتُ فِيْ هٰذِهِ السَّنَةِ مِمَّا نَهَيْتَنِيْ عَنْهُ فَلَمْ أَتُبْ مِنْهُ، وَلَمْ تَرْضَهُ وَلَمْ تَنْسَهُ، وَحَلُمْتَ عَلَيَّ بَعْدَ قُدْرَتِكَ عَلٰى عُقُوْبَتِيْ، وَدَعَوْتَنِيْ إِلَى التَّوْبَةِ مِنْهُ بَعْدَ جَرَاءَتِيْ عَلٰى مَعْصِيَتِكَ، فَإِنِّيْ أَسْتَغْفِرُكَ فَاغْفِرْ لِيْ، وَمَا عَمِلْتُ فِيْهَا مِمَّا تَرْضَاهُ وَوَعَدْتَنِيْ عَلَيْهِ الثَّوَابَ، فَأَسْأَلُكَ اللّٰهُمَّ يَا كَرِيْمُ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ أَنْ تَتَقَبَّلَهُ مِنِّيْ، وَلَا تَقْطَعْ رَجَائِيْ مِنْكَ يَا كَرِيْمُ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+          "latin": "A‘ūdzu billāhi minasy-syaiṭānir-rajīm, bismillāhir-raḥmānir-raḥīm, alḥamdu lillāhi rabbil-‘ālamīn, wa ṣallallāhu ‘alā sayyidinā Muḥammadin wa ‘alā ālihī wa ṣaḥbihī wa sallam. Allāhumma mā ‘amiltu fī hādzihis-sanati mimmā nahaitanī ‘anhu falam atub minh, wa lam tarḍahu wa lam tansah, wa ḥalumta ‘alayya ba‘da qudratika ‘alā ‘uqūbatī, wa da‘autanī ilat-taubati minhu ba‘da jarā’atī ‘alā ma‘ṣiyatik, fa innī astaghfiruka faghfir lī, wa mā ‘amiltu fīhā mimmā tarḍāhu wa wa‘adtanī ‘alaihits-tsawāb, fa as’alukallāhumma yā karīmu yā dzal-jalāli wal-ikrām an tataqabbalahū minnī, wa lā taqṭa‘ rajā’ī minka yā karīm …",
+          "translation": "Ya Allah, apa yang telah aku lakukan pada tahun ini dari hal-hal yang Engkau larang dan aku belum bertobat darinya, sedangkan Engkau tidak meridhainya dan tidak melupakannya, dan Engkau tetap bersabar kepadaku padahal Engkau mampu menghukumku, dan Engkau mengajakku bertobat setelah aku berani bermaksiat kepada-Mu, maka sungguh aku memohon ampunan kepada-Mu, ampunilah aku. Dan apa yang telah aku lakukan dari hal-hal yang Engkau ridhai dan Engkau janjikan pahalanya, aku memohon kepada-Mu, wahai Yang Maha Mulia, Pemilik keagungan dan kemuliaan, agar Engkau menerimanya dariku, dan janganlah Engkau putuskan harapanku kepada-Mu, wahai Yang Maha Mulia."
+        },
+        {
+          "id": "doa-awal-tahun",
+          "title": "Doa Awal Tahun",
+          "titleAr": "دعاء أول السنة",
+          "page": 109,
+          "repeat": 3,
+          "note": "Dibaca 3x pada awal bulan Muharram, sesudah Maghrib (Risalatul Ummah).",
+          "arabic": "أَعُوْذُ بِاللّٰهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ، بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ، اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ. اَللّٰهُمَّ أَنْتَ الْأَبَدِيُّ الْقَدِيْمُ الْأَوَّلُ، وَعَلٰى فَضْلِكَ الْعَظِيْمِ وَكَرِيْمِ جُوْدِكَ الْمُعَوَّلُ، وَهٰذَا عَامٌ جَدِيْدٌ قَدْ أَقْبَلَ، أَسْأَلُكَ الْعِصْمَةَ فِيْهِ مِنَ الشَّيْطَانِ وَأَوْلِيَائِهِ، وَالْعَوْنَ عَلٰى هٰذِهِ النَّفْسِ الْأَمَّارَةِ بِالسُّوْءِ، وَالْاِشْتِغَالَ بِمَا يُقَرِّبُنِيْ إِلَيْكَ زُلْفٰى يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+          "latin": "A‘ūdzu billāhi minasy-syaiṭānir-rajīm, bismillāhir-raḥmānir-raḥīm, alḥamdu lillāhi rabbil-‘ālamīn, wa ṣallallāhu ‘alā sayyidinā Muḥammadin wa ‘alā ālihī wa ṣaḥbihī wa sallam. Allāhumma antal-abadiyyul-qadīmul-awwal, wa ‘alā faḍlikal-‘aẓīmi wa karīmi jūdikal-mu‘awwal, wa hādzā ‘āmun jadīdun qad aqbal, as’alukal-‘iṣmata fīhi minasy-syaiṭāni wa auliyā’ih, wal-‘auna ‘alā hādzihin-nafsil-ammārati bis-sū’, wal-isytighāla bimā yuqarribunī ilaika zulfā yā dzal-jalāli wal-ikrām …",
+          "translation": "Ya Allah, Engkaulah Yang Mahakekal, Mahadahulu, dan Mahaawal. Kepada karunia-Mu yang agung dan kemurahan-Mu yang mulia kami bergantung. Inilah tahun baru telah tiba; aku memohon kepada-Mu perlindungan di dalamnya dari setan dan para walinya, pertolongan atas nafsu yang selalu memerintahkan keburukan, dan kesibukan dengan amal yang mendekatkanku kepada-Mu, wahai Pemilik keagungan dan kemuliaan."
+        }
+      ]
+    },
+    {
+      "id": "rajab-syaban",
+      "title": "Rajab & Sya‘ban",
+      "items": [
+        {
+          "id": "doa-rajab-syaban",
+          "title": "Doa Memasuki Bulan Rajab",
+          "extra": true,
+          "source": "HR. Ahmad & Al-Baihaqi (dari Anas bin Malik)",
+          "arabic": "اَللّٰهُمَّ بَارِكْ لَنَا فِيْ رَجَبَ وَشَعْبَانَ وَبَلِّغْنَا رَمَضَانَ",
+          "latin": "Allāhumma bārik lanā fī rajaba wa sya‘bāna wa ballighnā ramaḍān.",
+          "translation": "Ya Allah, berkahilah kami di bulan Rajab dan Sya‘ban, dan sampaikanlah kami ke bulan Ramadhan."
+        },
+        {
+          "id": "doa-malam-awal-rajab",
+          "title": "Doa Malam Pertama Bulan Rajab",
+          "extra": true,
+          "source": "Risalatul Ummah hlm. 70–73",
+          "segments": [
+            {
+              "label": "Doa Syaikh ‘Abdul Qadir al-Jilani",
+              "arabic": "إِلٰهِيْ تَعَرَّضَ لَكَ فِيْ هٰذِهِ اللَّيْلَةِ الْمُتَعَرِّضُوْنَ، وَقَصَدَكَ الْقَاصِدُوْنَ، وَأَمَّلَ فَضْلَكَ وَمَعْرُوْفَكَ الطَّالِبُوْنَ، وَلَكَ فِيْ هٰذِهِ اللَّيْلَةِ نَفَحَاتٌ وَجَوَائِزُ وَعَطَايَا وَمَوَاهِبُ، تَمُنُّ بِهَا عَلٰى مَنْ تَشَاءُ مِنْ عِبَادِكَ، وَتَمْنَعُهَا مِمَّنْ لَمْ تَسْبِقْ لَهُ الْعِنَايَةُ مِنْكَ، وَأَنَا عَبْدُكَ الْفَقِيْرُ إِلَيْكَ، الْمُؤَمِّلُ فَضْلَكَ وَمَعْرُوْفَكَ، فَإِنْ كُنْتَ يَا مَوْلَايَ تَفَضَّلْتَ فِيْ هٰذِهِ اللَّيْلَةِ عَلٰى أَحَدٍ مِنْ خَلْقِكَ، وَجُدْتَ عَلَيْهِ بِعَائِدَةٍ مِنْ عَطْفِكَ، فَصَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَاٰلِهِ وَصَحْبِهِ، وَجُدْ عَلَيَّ بِطَوْلِكَ وَمَعْرُوْفِكَ يَا رَبَّ الْعَالَمِيْنَ",
+              "latin": "Ilāhī ta‘arraḍa laka fī hādzihil-lailatil-muta‘arriḍūn, wa qaṣadakal-qāṣidūn, wa ammala faḍlaka wa ma‘rūfakaṭ-ṭālibūn, wa laka fī hādzihil-lailati nafaḥātun wa jawā’izu wa ‘aṭāyā wa mawāhib, tamunnu bihā ‘alā man tasyā’u min ‘ibādik, wa tamna‘uhā mimman lam tasbiq lahul-‘ināyatu mink, wa ana ‘abdukal-faqīru ilaik, al-mu’ammilu faḍlaka wa ma‘rūfak, fa in kunta yā maulāya tafaḍḍalta fī hādzihil-lailati ‘alā aḥadin min khalqik, wa jud-ta ‘alaihi bi ‘ā’idatin min ‘aṭfik, fa ṣalli ‘alā sayyidinā Muḥammadin wa ālihī wa ṣaḥbih, wa jud ‘alayya bi ṭaulika wa ma‘rūfika yā rabbal-‘ālamīn.",
+              "translation": "Wahai Tuhanku, pada malam ini orang-orang datang menghadap-Mu, menuju kepada-Mu, dan mengharap karunia serta kebaikan-Mu. Pada malam ini Engkau memiliki anugerah, hadiah, dan pemberian yang Engkau karuniakan kepada hamba yang Engkau kehendaki. Aku hamba-Mu yang fakir, mengharap karunia dan kebaikan-Mu. Jika Engkau, wahai Tuhanku, memberi karunia pada malam ini kepada salah seorang makhluk-Mu, maka limpahkanlah shalawat kepada Nabi Muhammad, keluarga, dan sahabatnya, dan limpahkanlah kepadaku kemurahan dan kebaikan-Mu, wahai Tuhan semesta alam."
+            },
+            {
+              "label": "Doa Sayyidina ‘Ali bin Abi Thalib",
+              "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى مُحَمَّدٍ وَاٰلِهِ مَصَابِيْحِ الْحِكْمَةِ، وَمَوَالِي النِّعْمَةِ، وَمَعَادِنِ الْعِصْمَةِ، وَاعْصِمْنِيْ بِهِمْ مِنْ كُلِّ سُوْءٍ، وَلَا تَأْخُذْنِيْ عَلٰى غِرَّةٍ وَلَا عَلٰى غَفْلَةٍ، وَلَا تَجْعَلْ عَوَاقِبَ أَمْرِيْ حَسْرَةً وَنَدَامَةً، وَارْضَ عَنِّيْ، فَإِنَّ مَغْفِرَتَكَ لِلظَّالِمِيْنَ وَأَنَا مِنَ الظَّالِمِيْنَ. اَللّٰهُمَّ اغْفِرْ لِيْ مَا لَا يَضُرُّكَ، وَأَعْطِنِيْ مَا لَا يَنْفَعُكَ، فَإِنَّكَ الْوَاسِعَةُ رَحْمَتُهُ، الْبَدِيْعَةُ حِكْمَتُهُ، فَأَعْطِنِيَ السَّعَةَ وَالدَّعَةَ، وَالْأَمْنَ وَالصِّحَّةَ، وَالشُّكْرَ وَالْمُعَافَاةَ وَالتَّقْوٰى، وَأَفْرِغِ الصَّبْرَ وَالصِّدْقَ عَلَيَّ وَعَلٰى أَوْلِيَائِكَ، وَأَعْطِنِيَ الْيُسْرَ، وَلَا تَجْعَلْ مَعَهُ الْعُسْرَ، وَاعْمُمْ بِذٰلِكَ أَهْلِيْ وَوَلَدِيْ وَإِخْوَانِيْ فِيْكَ، وَمَنْ وَلَدَنِيْ مِنَ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ",
+              "latin": "Allāhumma ṣalli ‘alā Muḥammadin wa ālihī maṣābīḥil-ḥikmah, wa mawālin-ni‘mah, wa ma‘ādinil-‘iṣmah, wa‘ṣimnī bihim min kulli sū’, wa lā ta’khudznī ‘alā ghirratin wa lā ‘alā ghaflah, wa lā taj‘al ‘awāqiba amrī ḥasratan wa nadāmah, warḍa ‘annī, fa inna maghfirataka liẓ-ẓālimīna wa ana minaẓ-ẓālimīn …",
+              "translation": "Ya Allah, limpahkanlah shalawat kepada Muhammad dan keluarganya, pelita-pelita hikmah, pemilik nikmat, dan sumber penjagaan; jagalah aku dengan (berkah) mereka dari segala keburukan; jangan Engkau siksa aku dalam keadaan lengah dan lalai; jangan jadikan akhir urusanku penyesalan; ridhailah aku, karena ampunan-Mu bagi orang-orang zalim dan aku termasuk mereka. Ya Allah, ampunilah aku (dosa) yang tidak merugikan-Mu, berilah aku apa yang tidak mengurangi-Mu, karena Engkau luas rahmat-Nya dan indah hikmah-Nya; berilah aku kelapangan, ketenangan, keamanan, kesehatan, syukur, ‘afiyah, dan takwa; curahkanlah kesabaran dan kejujuran kepadaku dan para wali-Mu; berilah aku kemudahan dan jangan sertakan kesulitan; dan ratakanlah semua itu kepada keluargaku, anak-anakku, saudara-saudaraku karena-Mu, orang tuaku, dan seluruh kaum muslimin dan mukminin."
+            },
+            {
+              "label": "Doa Sayyid Hasan bin ‘Abdullah al-Haddad (istighfar Rajab)",
+              "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ، وَصَلَّى اللّٰهُ تَعَالٰى عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ. أَسْتَغْفِرُ اللّٰهَ (×٣) وَأَتُوْبُ إِلَى اللّٰهِ مِمَّا يَكْرَهُهُ اللّٰهُ قَوْلًا وَفِعْلًا، وَخَاطِرًا وَبَاطِنًا وَظَاهِرًا. أَسْتَغْفِرُ اللّٰهَ الْعَظِيْمَ الَّذِيْ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّوْمُ وَأَتُوْبُ إِلَيْهِ. اَللّٰهُمَّ إِنِّيْ أَسْتَغْفِرُكَ لِمَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّيْ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، وَأَنْتَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ. أَسْتَغْفِرُ اللّٰهَ ذَا الْجَلَالِ وَالْإِكْرَامِ مِنْ جَمِيْعِ الذُّنُوْبِ وَالْاٰثَامِ. أَسْتَغْفِرُ اللّٰهَ لِذُنُوْبِيْ كُلِّهَا، سِرِّهَا وَجَهْرِهَا، وَصَغِيْرِهَا وَكَبِيْرِهَا، وَقَدِيْمِهَا وَجَدِيْدِهَا، وَأَوَّلِهَا وَاٰخِرِهَا، وَظَاهِرِهَا وَبَاطِنِهَا، وَأَتُوْبُ إِلَيْهِ …",
+              "latin": "Bismillāhir-raḥmānir-raḥīm, wa ṣallallāhu ta‘ālā ‘alā sayyidinā Muḥammadin wa ‘alā ālihī wa ṣaḥbihī wa sallam. Astaghfirullāh (×3) wa atūbu ilallāhi mimmā yakrahuhullāhu qaulan wa fi‘lā, wa khāṭiran wa bāṭinan wa ẓāhirā …",
+              "translation": "Aku memohon ampunan kepada Allah (3x) dan bertobat kepada-Nya dari segala yang dibenci Allah, baik ucapan, perbuatan, lintasan hati, yang batin maupun yang lahir… Aku memohon ampunan kepada Allah atas seluruh dosaku, yang tersembunyi dan yang tampak, yang kecil dan yang besar, yang lama dan yang baru, yang awal dan yang akhir… (Doa lengkap diakhiri dengan shalawat atas ruh, jasad, kubur, dan nama Nabi ﷺ, lalu At-Taubah: 128-129.)"
+            },
+            { "quran": "9:128-129", "label": "Penutup: At-Taubah 128-129" }
+          ]
+        },
+        {
+          "id": "doa-nisfu-syaban",
+          "title": "Doa Malam Nisfu Sya‘ban",
+          "titleAr": "دعاء نصف شعبان",
+          "page": 110,
+          "note": "Tata cara (kitab & Risalatul Ummah): setelah shalat Maghrib, sebelum berdoa, membaca Surah Yasin tiga kali. Yasin pertama diniatkan agar diberi panjang umur dalam ketaatan; kedua agar dijauhkan dari bala’ dan dilapangkan rezeki; ketiga agar tetap dalam iman dan Islam serta tidak bergantung kepada manusia. Setiap selesai satu kali Yasin dibaca doa ini.",
+          "link": { "href": "/quran/36", "label": "Baca Surah Yasin" },
+          "arabic": "اَللّٰهُمَّ يَا ذَا الْمَنِّ وَلَا يُمَنُّ عَلَيْهِ، يَا ذَا الْجَلَالِ وَالْإِكْرَامِ، يَا ذَا الطَّوْلِ وَالْإِنْعَامِ، لَا إِلٰهَ إِلَّا أَنْتَ ظَهْرُ اللَّاجِيْنَ، وَجَارُ الْمُسْتَجِيْرِيْنَ، وَأَمَانُ الْخَائِفِيْنَ. اَللّٰهُمَّ إِنْ كُنْتَ كَتَبْتَنِيْ عِنْدَكَ فِيْ أُمِّ الْكِتَابِ شَقِيًّا أَوْ مَحْرُوْمًا أَوْ مَطْرُوْدًا أَوْ مُقَتَّرًا عَلَيَّ فِي الرِّزْقِ، فَامْحُ اللّٰهُمَّ بِفَضْلِكَ شَقَاوَتِيْ وَحِرْمَانِيْ وَطَرْدِيْ وَإِقْتَارَ رِزْقِيْ، وَأَثْبِتْنِيْ عِنْدَكَ فِيْ أُمِّ الْكِتَابِ سَعِيْدًا مَرْزُوْقًا مُوَفَّقًا لِلْخَيْرَاتِ، فَإِنَّكَ قُلْتَ وَقَوْلُكَ الْحَقُّ فِيْ كِتَابِكَ الْمُنْزَلِ عَلٰى لِسَانِ نَبِيِّكَ الْمُرْسَلِ: يَمْحُو اللّٰهُ مَا يَشَاءُ وَيُثْبِتُ وَعِنْدَهُ أُمُّ الْكِتَابِ. إِلٰهِيْ بِالتَّجَلِّي الْأَعْظَمِ، فِيْ لَيْلَةِ النِّصْفِ مِنْ شَهْرِ شَعْبَانَ الْمُكَرَّمِ، الَّتِيْ يُفْرَقُ فِيْهَا كُلُّ أَمْرٍ حَكِيْمٍ وَيُبْرَمُ، اِصْرِفْ عَنَّا مِنَ الْبَلَاءِ مَا نَعْلَمُ وَمَا لَا نَعْلَمُ وَمَا أَنْتَ بِهِ أَعْلَمُ، إِنَّكَ أَنْتَ الْأَعَزُّ الْأَكْرَمُ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلٰى اٰلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ",
+          "latin": "Allāhumma yā dzal-manni wa lā yumannu ‘alaih, yā dzal-jalāli wal-ikrām, yā dzaṭ-ṭauli wal-in‘ām, lā ilāha illā anta ẓahrul-lājīn, wa jārul-mustajīrīn, wa amānul-khā’ifīn. Allāhumma in kunta katabtanī ‘indaka fī ummil-kitābi syaqiyyan au maḥrūman au maṭrūdan au muqattaran ‘alayya fir-rizq, famḥullāhumma bi faḍlika syaqāwatī wa ḥirmānī wa ṭardī wa iqtāra rizqī, wa atsbitnī ‘indaka fī ummil-kitābi sa‘īdan marzūqan muwaffaqan lil-khairāt, fa innaka qulta wa qaulukal-ḥaqqu fī kitābikal-munzali ‘alā lisāni nabiyyikal-mursal: yamḥullāhu mā yasyā’u wa yutsbitu wa ‘indahū ummul-kitāb. Ilāhī bit-tajalliyil-a‘ẓam, fī lailatin-niṣfi min syahri sya‘bānal-mukarram, allatī yufraqu fīhā kullu amrin ḥakīmin wa yubram, iṣrif ‘annā minal-balā’i mā na‘lamu wa mā lā na‘lamu wa mā anta bihī a‘lam, innaka antal-a‘azzul-akram, bi raḥmatika yā arḥamar-rāḥimīn …",
+          "translation": "Ya Allah, Pemilik anugerah yang tidak diberi anugerah, Pemilik keagungan dan kemuliaan, Pemilik kekuasaan dan kenikmatan; tiada Tuhan selain Engkau, sandaran orang-orang yang berlindung, pelindung orang-orang yang meminta perlindungan, dan pemberi rasa aman bagi orang-orang yang takut. Ya Allah, jika Engkau telah menulisku di Ummul Kitab sebagai orang yang celaka, terhalang, terusir, atau disempitkan rezekinya, maka hapuskanlah dengan karunia-Mu kecelakaan, keterhalangan, keterusiran, dan kesempitan rezekiku; tetapkanlah aku di Ummul Kitab sebagai orang yang bahagia, diberi rezeki, dan diberi taufik untuk kebaikan. Sungguh Engkau telah berfirman: “Allah menghapus dan menetapkan apa yang Dia kehendaki, dan di sisi-Nya Ummul Kitab.” Wahai Tuhanku, dengan tajalli-Mu yang agung pada malam pertengahan bulan Sya‘ban yang mulia, malam dipisahkan dan ditetapkannya setiap urusan yang penuh hikmah, palingkanlah dari kami bala’ yang kami ketahui, yang tidak kami ketahui, dan yang Engkau lebih mengetahuinya; sungguh Engkau Mahaperkasa lagi Maha Mulia."
+        }
+      ]
+    },
+    {
+      "id": "mukhtarat",
+      "title": "Mukhtaratul Ad‘iyah (Doa-Doa Pilihan)",
+      "intro": "Kumpulan doa pilihan dalam kitab (hlm. 100–108). Sebagian besar bersumber dari hadits-hadits Nabi ﷺ.",
+      "items": [
+        {
+          "id": "doa-asmaul-husna",
+          "title": "Doa dengan Asmaul Husna",
+          "page": 100,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ بِأَنَّكَ أَنْتَ اللّٰهُ لَا إِلٰهَ إِلَّا أَنْتَ الرَّحْمٰنُ الرَّحِيْمُ … (٩٩ اسمًا) … الَّذِيْ لَمْ يَلِدْ وَلَمْ يُوْلَدْ وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ، أَنْ تُوَفِّقَنَا وَأَوْلَادَنَا وَذُرِّيَّتَنَا وَتَلَامِيْذَنَا بِالْأَعْمَالِ الصَّالِحَةِ، وَأَنْ تَحْفَظَنَا وَإِيَّاهُمْ مِنَ الْهَمِّ وَالْغَمِّ وَالْمَرَضِ وَالسَّقَمِ وَالْبَلَايَا وَالْمِحَنِ وَالْفِتَنِ، وَأَنْ تَجْعَلَ لَنَا فَرَجًا وَمَخْرَجًا",
+          "latin": "Allāhumma innā nas’aluka bi annaka antallāhu lā ilāha illā antar-raḥmānur-raḥīm … (disebutkan 99 nama) … alladzī lam yalid wa lam yūlad wa lam yakun lahū kufuwan aḥad, an tuwaffiqanā wa aulādanā wa dzurriyyatanā wa talāmīdzanā bil-a‘māliṣ-ṣāliḥah, wa an taḥfaẓanā wa iyyāhum minal-hammi wal-ghammi wal-maraḍi was-saqami wal-balāyā wal-miḥani wal-fitan, wa an taj‘ala lanā farajan wa makhrajā.",
+          "translation": "Ya Allah, kami memohon kepada-Mu dengan (kebenaran) bahwa Engkaulah Allah, tiada Tuhan selain Engkau, Ar-Rahman, Ar-Rahim… (hingga 99 nama)… yang tidak beranak dan tidak diperanakkan dan tiada yang setara dengan-Nya; agar Engkau memberi taufik kepada kami, anak-anak, keturunan, dan murid-murid kami untuk beramal saleh, menjaga kami dan mereka dari kegelisahan, kesedihan, penyakit, bala’, cobaan, dan fitnah, serta memberi kami jalan keluar.",
+          "link": { "href": "/asmaul-husna", "label": "Lihat 99 Asmaul Husna" }
+        },
+        {
+          "id": "doa-keselamatan-agama",
+          "title": "Doa Keselamatan Dunia & Akhirat",
+          "page": 103,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ سَلَامَةً فِي الدِّيْنِ، وَعَافِيَةً فِي الْجَسَدِ، وَزِيَادَةً فِي الْعِلْمِ، وَبَرَكَةً فِي الرِّزْقِ، وَتَوْبَةً قَبْلَ الْمَوْتِ، وَرَحْمَةً عِنْدَ الْمَوْتِ، وَمَغْفِرَةً بَعْدَ الْمَوْتِ. اَللّٰهُمَّ هَوِّنْ عَلَيْنَا فِيْ سَكَرَاتِ الْمَوْتِ، وَالنَّجَاةَ مِنَ النَّارِ، وَالْعَفْوَ عِنْدَ الْحِسَابِ. رَبَّنَا لَا تُزِغْ قُلُوْبَنَا بَعْدَ إِذْ هَدَيْتَنَا، وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً، إِنَّكَ أَنْتَ الْوَهَّابُ",
+          "latin": "Allāhumma innā nas’aluka salāmatan fid-dīn, wa ‘āfiyatan fil-jasad, wa ziyādatan fil-‘ilm, wa barakatan fir-rizq, wa taubatan qablal-maut, wa raḥmatan ‘indal-maut, wa maghfiratan ba‘dal-maut. Allāhumma hawwin ‘alainā fī sakarātil-maut, wan-najāta minan-nār, wal-‘afwa ‘indal-ḥisāb. Rabbanā lā tuzigh qulūbanā ba‘da idz hadaitanā, wa hab lanā min ladunka raḥmah, innaka antal-wahhāb.",
+          "translation": "Ya Allah, kami memohon kepada-Mu keselamatan dalam agama, kesehatan badan, tambahan ilmu, keberkahan rezeki, tobat sebelum mati, rahmat ketika mati, dan ampunan setelah mati. Ya Allah, mudahkanlah kami dalam sakaratul maut, selamatkanlah dari neraka, dan berilah ampunan ketika hisab. Wahai Tuhan kami, janganlah Engkau condongkan hati kami setelah Engkau beri petunjuk, dan karuniakanlah rahmat dari sisi-Mu; sungguh Engkau Maha Pemberi."
+        },
+        {
+          "id": "doa-nikmat-sempurna",
+          "title": "Doa Kesempurnaan Nikmat",
+          "page": 103,
+          "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ مِنَ النِّعْمَةِ تَمَامَهَا، وَمِنَ الْعِصْمَةِ دَوَامَهَا، وَمِنَ الرَّحْمَةِ شُمُوْلَهَا، وَمِنَ الْعَافِيَةِ حُصُوْلَهَا، وَمِنَ الْعَيْشِ أَرْغَدَهُ، وَمِنَ الْعُمُرِ أَسْعَدَهُ، وَمِنَ الْإِحْسَانِ أَتَمَّهُ، وَمِنَ الْإِنْعَامِ أَعَمَّهُ، وَمِنَ الْفَضْلِ أَعْذَبَهُ، وَمِنَ اللُّطْفِ أَنْفَعَهُ وَأَقْرَبَهُ. اَللّٰهُمَّ كُنْ لَنَا وَلَا تَكُنْ عَلَيْنَا",
+          "latin": "Allāhumma innī as’aluka minan-ni‘mati tamāmahā, wa minal-‘iṣmati dawāmahā, wa minar-raḥmati syumūlahā, wa minal-‘āfiyati ḥuṣūlahā, wa minal-‘aisyi arghadah, wa minal-‘umuri as‘adah, wa minal-iḥsāni atammah, wa minal-in‘āmi a‘ammah, wa minal-faḍli a‘dzabah, wa minal-luṭfi anfa‘ahū wa aqrabah. Allāhumma kun lanā wa lā takun ‘alainā.",
+          "translation": "Ya Allah, aku memohon kepada-Mu nikmat yang sempurna, penjagaan yang langgeng, rahmat yang meliputi, kesehatan yang nyata, kehidupan yang paling makmur, umur yang paling bahagia, kebaikan yang paling sempurna, anugerah yang paling merata, karunia yang paling manis, dan kelembutan yang paling bermanfaat dan dekat. Ya Allah, jadilah Engkau (penolong) bagi kami dan jangan menjadi (penghukum) atas kami."
+        },
+        {
+          "id": "doa-nur",
+          "title": "Doa Cahaya (Du‘a an-Nur)",
+          "page": 103,
+          "source": "HR. Bukhari & Muslim (dari Ibnu ‘Abbas)",
+          "arabic": "اَللّٰهُمَّ اجْعَلْ لِيْ نُوْرًا فِيْ قَلْبِيْ، وَنُوْرًا فِيْ قَبْرِيْ، وَنُوْرًا فِيْ سَمْعِيْ، وَنُوْرًا فِيْ بَصَرِيْ، وَنُوْرًا فِيْ شَعْرِيْ، وَنُوْرًا فِيْ بَشَرِيْ، وَنُوْرًا فِيْ لَحْمِيْ، وَنُوْرًا فِيْ دَمِيْ، وَنُوْرًا فِيْ عِظَامِيْ، وَنُوْرًا مِنْ بَيْنِ يَدَيَّ، وَنُوْرًا مِنْ خَلْفِيْ، وَنُوْرًا عَنْ يَمِيْنِيْ، وَنُوْرًا عَنْ شِمَالِيْ، وَنُوْرًا مِنْ فَوْقِيْ، وَنُوْرًا مِنْ تَحْتِيْ. اَللّٰهُمَّ زِدْنِيْ نُوْرًا وَأَعْطِنِيْ نُوْرًا وَاجْعَلْ لِيْ نُوْرًا",
+          "latin": "Allāhummaj‘al lī nūran fī qalbī, wa nūran fī qabrī, wa nūran fī sam‘ī, wa nūran fī baṣarī, wa nūran fī sya‘rī, wa nūran fī basyarī, wa nūran fī laḥmī, wa nūran fī damī, wa nūran fī ‘iẓāmī, wa nūran min baini yadayya, wa nūran min khalfī, wa nūran ‘an yamīnī, wa nūran ‘an syimālī, wa nūran min fauqī, wa nūran min taḥtī. Allāhumma zidnī nūran wa a‘ṭinī nūran waj‘al lī nūrā.",
+          "translation": "Ya Allah, jadikanlah cahaya di hatiku, di kuburku, di pendengaranku, di penglihatanku, di rambutku, di kulitku, di dagingku, di darahku, di tulangku, di depanku, di belakangku, di kananku, di kiriku, di atasku, dan di bawahku. Ya Allah, tambahkanlah cahaya bagiku, berilah aku cahaya, dan jadikanlah bagiku cahaya."
+        },
+        {
+          "id": "doa-iman-yakin",
+          "title": "Doa Iman, Ilmu & Rezeki",
+          "page": 104,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ إِيْمَانًا دَائِمًا، وَنَسْأَلُكَ قَلْبًا خَاشِعًا، وَنَسْأَلُكَ يَقِيْنًا صَادِقًا، وَنَسْأَلُكَ عِلْمًا نَافِعًا، وَنَسْأَلُكَ عَمَلًا صَالِحًا، وَنَسْأَلُكَ دِيْنًا قَيِّمًا، وَنَسْأَلُكَ رِزْقًا طَيِّبًا، وَنَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ، وَنَسْأَلُكَ تَمَامَ الْعَافِيَةِ، وَنَسْأَلُكَ الشُّكْرَ عَلَى الْعَافِيَةِ، وَنَسْأَلُكَ الْغِنٰى عَنِ النَّاسِ",
+          "latin": "Allāhumma innā nas’aluka īmānan dā’imā, wa nas’aluka qalban khāsyi‘ā, wa nas’aluka yaqīnan ṣādiqā, wa nas’aluka ‘ilman nāfi‘ā, wa nas’aluka ‘amalan ṣāliḥā, wa nas’aluka dīnan qayyimā, wa nas’aluka rizqan ṭayyibā, wa nas’alukal-‘afwa wal-‘āfiyah, wa nas’aluka tamāmal-‘āfiyah, wa nas’alukasy-syukra ‘alal-‘āfiyah, wa nas’alukal-ghinā ‘anin-nās.",
+          "translation": "Ya Allah, kami memohon kepada-Mu iman yang langgeng, hati yang khusyuk, keyakinan yang benar, ilmu yang bermanfaat, amal yang saleh, agama yang lurus, rezeki yang baik, ampunan dan ‘afiyah, kesempurnaan ‘afiyah, syukur atas ‘afiyah, dan kecukupan dari (meminta kepada) manusia."
+        },
+        {
+          "id": "doa-titipan",
+          "title": "Doa Penitipan (Istihfazh)",
+          "page": 104,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْتَحْفِظُكَ وَنَسْتَوْدِعُكَ أَدْيَانَنَا وَأَنْفُسَنَا وَأَهْلَنَا وَأَوْلَادَنَا وَأَمْوَالَنَا وَكُلَّ شَيْءٍ أَعْطَيْتَنَا. اَللّٰهُمَّ اجْعَلْنَا وَإِيَّاهُمْ فِيْ كَنَفِكَ وَأَمَانِكَ وَعِيَاذِكَ، مِنْ كُلِّ شَيْطَانٍ مَرِيْدٍ، وَجَبَّارٍ عَنِيْدٍ، وَذِيْ عَيْنٍ وَذِيْ بَغْيٍ، وَمِنْ شَرِّ كُلِّ ذِيْ شَرٍّ، إِنَّكَ عَلٰى كُلِّ شَيْءٍ قَدِيْرٌ",
+          "latin": "Allāhumma innā nastaḥfiẓuka wa nastaudi‘uka adyānanā wa anfusanā wa ahlanā wa aulādanā wa amwālanā wa kulla syai’in a‘ṭaitanā. Allāhummaj‘alnā wa iyyāhum fī kanafika wa amānika wa ‘iyādzik, min kulli syaiṭānin marīd, wa jabbārin ‘anīd, wa dzī ‘ainin wa dzī baghy, wa min syarri kulli dzī syarr, innaka ‘alā kulli syai’in qadīr.",
+          "translation": "Ya Allah, kami menitipkan kepada-Mu agama, diri, keluarga, anak, harta, dan segala yang Engkau berikan kepada kami. Ya Allah, jadikanlah kami dan mereka dalam naungan, keamanan, dan perlindungan-Mu dari setiap setan yang durhaka, penguasa yang lalim, pemilik mata jahat, orang yang zalim, dan dari keburukan setiap yang jahat. Sungguh Engkau Mahakuasa atas segala sesuatu."
+        },
+        {
+          "id": "doa-ilmu-tidak-bermanfaat",
+          "title": "Doa Perlindungan dari Ilmu yang Tidak Bermanfaat",
+          "page": 105,
+          "source": "HR. Muslim (dari Zaid bin Arqam)",
+          "arabic": "اَللّٰهُمَّ إِنَّا نَعُوْذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَقَلْبٍ لَا يَخْشَعُ، وَعَمَلٍ لَا يُرْفَعُ، وَدُعَاءٍ لَا يُسْمَعُ، وَنَعُوْذُ بِكَ مِنْ هٰؤُلَاءِ الْأَرْبَعِ، وَنَعُوْذُ بِكَ مِنْ نَفْسٍ لَا تَشْبَعُ، وَعَيْنٍ لَا تَدْمَعُ، وَجَمْعِ كُتُبٍ لَا يَنْفَعُ",
+          "latin": "Allāhumma innā na‘ūdzu bika min ‘ilmin lā yanfa‘, wa qalbin lā yakhsya‘, wa ‘amalin lā yurfa‘, wa du‘ā’in lā yusma‘, wa na‘ūdzu bika min hā’ulā’il-arba‘, wa na‘ūdzu bika min nafsin lā tasyba‘, wa ‘ainin lā tadma‘, wa jam‘i kutubin lā yanfa‘.",
+          "translation": "Ya Allah, kami berlindung kepada-Mu dari ilmu yang tidak bermanfaat, hati yang tidak khusyuk, amal yang tidak diangkat, doa yang tidak didengar; kami berlindung kepada-Mu dari empat hal ini; dan kami berlindung kepada-Mu dari nafsu yang tidak pernah kenyang, mata yang tidak menangis, dan mengumpulkan kitab yang tidak bermanfaat."
+        },
+        {
+          "id": "doa-huda-tuqa",
+          "title": "Doa Petunjuk, Takwa & Kecukupan",
+          "page": 105,
+          "source": "HR. Muslim (bagian awal)",
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ الْهُدٰى وَالتُّقٰى وَالْعَفَافَ وَالْغِنٰى. اَللّٰهُمَّ جَمِّلْنَا بِالْعَافِيَةِ وَالسَّلَامَةِ، وَحَقِّقْنَا بِالتَّقْوٰى وَالْاِسْتِقَامَةِ، وَأَعِذْنَا مِنْ مُوْجِبَاتِ النَّدَامَةِ، إِنَّكَ سَمِيْعُ الدُّعَاءِ",
+          "latin": "Allāhumma innā nas’alukal-hudā wat-tuqā wal-‘afāfa wal-ghinā. Allāhumma jammilnā bil-‘āfiyati was-salāmah, wa ḥaqqiqnā bit-taqwā wal-istiqāmah, wa a‘idznā min mūjibātin-nadāmah, innaka samī‘ud-du‘ā’.",
+          "translation": "Ya Allah, kami memohon kepada-Mu petunjuk, takwa, kesucian diri, dan kecukupan. Ya Allah, hiasilah kami dengan kesehatan dan keselamatan, teguhkanlah kami dengan takwa dan istiqamah, dan lindungilah kami dari hal-hal yang menyebabkan penyesalan. Sungguh Engkau Maha Mendengar doa."
+        },
+        {
+          "id": "doa-majelis-marhum",
+          "title": "Doa Penutup Majelis",
+          "page": 105,
+          "arabic": "اَللّٰهُمَّ اجْعَلْ جَمْعَنَا هٰذَا جَمْعًا مَرْحُوْمًا، وَاجْعَلْ تَفَرُّقَنَا مِنْ بَعْدِهِ تَفَرُّقًا مَعْصُوْمًا، وَلَا تَجْعَلِ اللّٰهُمَّ فِيْنَا وَلَا مِنَّا وَلَا مَعَنَا شَقِيًّا وَلَا مَحْرُوْمًا",
+          "latin": "Allāhummaj‘al jam‘anā hādzā jam‘an marḥūmā, waj‘al tafarruqanā min ba‘dihī tafarruqan ma‘ṣūmā, wa lā taj‘alillāhumma fīnā wa lā minnā wa lā ma‘anā syaqiyyan wa lā maḥrūmā.",
+          "translation": "Ya Allah, jadikanlah perkumpulan kami ini perkumpulan yang dirahmati, dan jadikanlah perpisahan kami setelahnya perpisahan yang terjaga; dan janganlah Engkau jadikan di antara kami, dari kami, dan bersama kami orang yang celaka dan terhalang (dari rahmat)."
+        },
+        {
+          "id": "doa-ridha-surga",
+          "title": "Doa Ridha & Surga",
+          "page": 106,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ مُوْجِبَاتِ رَحْمَتِكَ، وَعَزَائِمَ مَغْفِرَتِكَ، وَالسَّلَامَةَ مِنْ كُلِّ إِثْمٍ، وَالْغَنِيْمَةَ مِنْ كُلِّ بِرٍّ، وَالْفَوْزَ بِالْجَنَّةِ وَالنَّجَاةَ مِنَ النَّارِ. اَللّٰهُمَّ إِنَّا نَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ، وَنَعُوْذُ بِكَ مِنْ سَخَطِكَ وَالنَّارِ. اَللّٰهُمَّ أَجِرْنَا مِنَ النَّارِ (×٣) بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ",
+          "latin": "Allāhumma innā nas’aluka mūjibāti raḥmatik, wa ‘azā’ima maghfiratik, was-salāmata min kulli itsm, wal-ghanīmata min kulli birr, wal-fauza bil-jannati wan-najāta minan-nār. Allāhumma innā nas’aluka riḍāka wal-jannah, wa na‘ūdzu bika min sakhaṭika wan-nār. Allāhumma ajirnā minan-nār (×3) bi raḥmatika yā arḥamar-rāḥimīn.",
+          "translation": "Ya Allah, kami memohon hal-hal yang mendatangkan rahmat dan ampunan-Mu, keselamatan dari setiap dosa, keuntungan dari setiap kebaikan, keberuntungan dengan surga, dan keselamatan dari neraka. Ya Allah, kami memohon ridha-Mu dan surga, dan berlindung dari murka-Mu dan neraka. Ya Allah, lindungilah kami dari neraka (3x), dengan rahmat-Mu wahai Yang Maha Penyayang."
+        },
+        {
+          "id": "doa-perbaiki-agama-dunia",
+          "title": "Doa Perbaikan Agama, Dunia & Akhirat",
+          "page": 105,
+          "source": "HR. Muslim (dari Abu Hurairah)",
+          "arabic": "اَللّٰهُمَّ أَصْلِحْ لَنَا دِيْنَنَا الَّذِيْ هُوَ عِصْمَةُ أَمْرِنَا، وَأَصْلِحْ لَنَا دُنْيَانَا الَّتِيْ فِيْهَا مَعَاشُنَا، وَأَصْلِحْ لَنَا اٰخِرَتَنَا الَّتِيْ إِلَيْهَا مَعَادُنَا، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لَنَا فِيْ كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لَنَا مِنْ كُلِّ شَرٍّ",
+          "latin": "Allāhumma aṣliḥ lanā dīnanal-ladzī huwa ‘iṣmatu amrinā, wa aṣliḥ lanā dunyānal-latī fīhā ma‘āsyunā, wa aṣliḥ lanā ākhiratanal-latī ilaihā ma‘ādunā, waj‘alil-ḥayāta ziyādatan lanā fī kulli khair, waj‘alil-mauta rāḥatan lanā min kulli syarr.",
+          "translation": "Ya Allah, perbaikilah agama kami yang menjadi penjaga urusan kami, perbaikilah dunia kami yang menjadi tempat penghidupan kami, perbaikilah akhirat kami yang menjadi tempat kembali kami; jadikanlah kehidupan sebagai tambahan bagi kami dalam segala kebaikan, dan jadikanlah kematian sebagai istirahat bagi kami dari segala keburukan."
+        },
+        {
+          "id": "doa-jahdil-bala",
+          "title": "Doa Perlindungan dari Beratnya Bala’",
+          "page": 107,
+          "source": "HR. Bukhari & Muslim",
+          "arabic": "اَللّٰهُمَّ إِنَّا نَعُوْذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ، وَدَرَكِ الشَّقَاءِ، وَسُوْءِ الْقَضَاءِ، وَشَمَاتَةِ الْأَعْدَاءِ",
+          "latin": "Allāhumma innā na‘ūdzu bika min jahdil-balā’, wa darakisy-syaqā’, wa sū’il-qaḍā’, wa syamātatil-a‘dā’.",
+          "translation": "Ya Allah, kami berlindung kepada-Mu dari beratnya bala’, tertimpa kesengsaraan, buruknya takdir, dan kegembiraan musuh (atas musibah kami)."
+        },
+        {
+          "id": "doa-la-mani",
+          "title": "Doa Tidak Ada yang Menghalangi Pemberian-Mu",
+          "page": 107,
+          "source": "HR. Bukhari & Muslim",
+          "arabic": "اَللّٰهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+          "latin": "Allāhumma lā māni‘a limā a‘ṭait, wa lā mu‘ṭiya limā mana‘t, wa lā yanfa‘u dzal-jaddi minkal-jadd.",
+          "translation": "Ya Allah, tidak ada yang dapat menghalangi apa yang Engkau berikan, tidak ada yang dapat memberi apa yang Engkau halangi, dan tidak bermanfaat kekayaan orang yang kaya di hadapan-Mu."
+        },
+        {
+          "id": "doa-muhawwil-ahwal",
+          "title": "Doa Pengubah Keadaan",
+          "page": 107,
+          "arabic": "اَللّٰهُمَّ يَا مُحَوِّلَ الْأَحْوَالِ، حَوِّلْ حَالَنَا إِلٰى أَحْسَنِ الْحَالِ، بِحَوْلِكَ وَقُوَّتِكَ يَا عَزِيْزُ يَا مُتَعَالُ",
+          "latin": "Allāhumma yā muḥawwilal-aḥwāl, ḥawwil ḥālanā ilā aḥsanil-ḥāl, bi ḥaulika wa quwwatika yā ‘azīzu yā muta‘āl.",
+          "translation": "Ya Allah, wahai Yang mengubah keadaan, ubahlah keadaan kami menjadi keadaan yang paling baik, dengan daya dan kekuatan-Mu, wahai Yang Mahaperkasa lagi Mahatinggi."
+        },
+        {
+          "id": "doa-ziyadah-fid-din",
+          "title": "Doa Tambahan dalam Agama & Keberkahan Umur",
+          "page": 108,
+          "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ زِيَادَةً فِي الدِّيْنِ، وَبَرَكَةً فِي الْعُمُرِ، وَصِحَّةً فِي الْجَسَدِ، وَسَعَةً فِي الرِّزْقِ، وَتَوْبَةً قَبْلَ الْمَوْتِ، وَشَهَادَةً عِنْدَ الْمَوْتِ، وَمَغْفِرَةً بَعْدَ الْمَوْتِ، وَعَفْوًا عِنْدَ الْحِسَابِ، وَأَمَانًا مِنَ الْعَذَابِ، وَنَصِيْبًا مِنَ الْجَنَّةِ، وَارْزُقْنَا النَّظَرَ إِلٰى وَجْهِكَ الْكَرِيْمِ",
+          "latin": "Allāhumma innā nas’aluka ziyādatan fid-dīn, wa barakatan fil-‘umur, wa ṣiḥḥatan fil-jasad, wa sa‘atan fir-rizq, wa taubatan qablal-maut, wa syahādatan ‘indal-maut, wa maghfiratan ba‘dal-maut, wa ‘afwan ‘indal-ḥisāb, wa amānan minal-‘adzāb, wa naṣīban minal-jannah, warzuqnan-naẓara ilā wajhikal-karīm.",
+          "translation": "Ya Allah, kami memohon kepada-Mu tambahan dalam agama, keberkahan umur, kesehatan badan, keluasan rezeki, tobat sebelum mati, syahadat ketika mati, ampunan setelah mati, maaf ketika hisab, keamanan dari azab, bagian dari surga, dan anugerahkanlah kepada kami kenikmatan memandang wajah-Mu Yang Mulia."
+        },
+        {
+          "id": "wird-abu-bakar-bin-salim",
+          "title": "Wirid Syaikh Abu Bakar bin Salim",
+          "titleAr": "ورد الشيخ أبي بكر بن سالم",
+          "page": 107,
+          "segments": [
+            {
+              "arabic": "اَللّٰهُمَّ يَا عَظِيْمَ السُّلْطَانِ، يَا قَدِيْمَ الْإِحْسَانِ، يَا دَائِمَ النِّعَمِ، يَا كَثِيْرَ الْجُوْدِ، يَا وَاسِعَ الْعَطَاءِ، يَا خَفِيَّ اللُّطْفِ، يَا جَمِيْلَ الصُّنْعِ، يَا حَلِيْمًا لَا يَعْجَلُ، صَلِّ يَا رَبِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَاٰلِهِ وَسَلِّمْ، وَارْضَ عَنِ الصَّحَابَةِ أَجْمَعِيْنَ",
+              "latin": "Allāhumma yā ‘aẓīmas-sulṭān, yā qadīmal-iḥsān, yā dā’iman-ni‘am, yā katsīral-jūd, yā wāsi‘al-‘aṭā’, yā khafiyyal-luṭf, yā jamīlaṣ-ṣun‘, yā ḥalīman lā ya‘jal, ṣalli yā rabbi ‘alā sayyidinā Muḥammadin wa ālihī wa sallim, warḍa ‘aniṣ-ṣaḥābati ajma‘īn."
+            },
+            {
+              "arabic": "اَللّٰهُمَّ لَكَ الْحَمْدُ شُكْرًا، وَلَكَ الْمَنُّ فَضْلًا، وَأَنْتَ رَبُّنَا حَقًّا، وَنَحْنُ عَبِيْدُكَ رِقًّا، وَأَنْتَ لَمْ تَزَلْ لِذٰلِكَ أَهْلًا. يَا مُيَسِّرَ كُلِّ عَسِيْرٍ، وَيَا جَابِرَ كُلِّ كَسِيْرٍ، وَيَا صَاحِبَ كُلِّ فَرِيْدٍ، وَيَا مُغْنِيَ كُلِّ فَقِيْرٍ، وَيَا مُقَوِّيَ كُلِّ ضَعِيْفٍ، وَيَا مَأْمَنَ كُلِّ مَخِيْفٍ، يَسِّرْ عَلَيْنَا كُلَّ عَسِيْرٍ، فَتَيْسِيْرُ الْعَسِيْرِ عَلَيْكَ يَسِيْرٌ. اَللّٰهُمَّ يَا مَنْ لَا يَحْتَاجُ إِلَى الْبَيَانِ وَالتَّفْسِيْرِ، حَاجَاتُنَا كَثِيْرٌ وَأَنْتَ عَالِمٌ بِهَا وَخَبِيْرٌ",
+              "latin": "Allāhumma lakal-ḥamdu syukrā, wa lakal-mannu faḍlā, wa anta rabbunā ḥaqqā, wa naḥnu ‘abīduka riqqā, wa anta lam tazal li dzālika ahlā. Yā muyassira kulli ‘asīr, wa yā jābira kulli kasīr, wa yā ṣāḥiba kulli farīd, wa yā mughniya kulli faqīr, wa yā muqawwiya kulli ḍa‘īf, wa yā ma’mana kulli makhīf, yassir ‘alainā kulla ‘asīr, fa taisīrul-‘asīri ‘alaika yasīr. Allāhumma yā man lā yaḥtāju ilal-bayāni wat-tafsīr, ḥājātunā katsīrun wa anta ‘ālimun bihā wa khabīr."
+            },
+            {
+              "arabic": "اَللّٰهُمَّ إِنَّا نَخَافُ مِنْكَ، وَنَخَافُ مِمَّنْ يَخَافُ مِنْكَ، وَنَخَافُ مِمَّنْ لَا يَخَافُ مِنْكَ. اَللّٰهُمَّ بِحَقِّ مَنْ يَخَافُ مِنْكَ نَجِّنَا مِمَّنْ لَا يَخَافُ مِنْكَ. اَللّٰهُمَّ بِحَقِّ سَيِّدِنَا مُحَمَّدٍ احْرُسْنَا بِعَيْنِكَ الَّتِيْ لَا تَنَامُ، وَاكْنُفْنَا بِكَنَفِكَ الَّذِيْ لَا يُرَامُ، وَارْحَمْنَا بِقُدْرَتِكَ عَلَيْنَا فَلَا نَهْلِكُ، وَأَنْتَ ثِقَتُنَا وَرَجَاؤُنَا، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَاٰلِهِ وَصَحْبِهِ وَسَلَّمَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ عَدَدَ خَلْقِهِ وَرِضٰى نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+              "latin": "Allāhumma innā nakhāfu mink, wa nakhāfu mimman yakhāfu mink, wa nakhāfu mimman lā yakhāfu mink. Allāhumma bi ḥaqqi man yakhāfu minka najjinā mimman lā yakhāfu mink. Allāhumma bi ḥaqqi sayyidinā Muḥammadin iḥrusnā bi ‘ainikal-latī lā tanām, waknufnā bi kanafikal-ladzī lā yurām, warḥamnā bi qudratika ‘alainā falā nahlik, wa anta tsiqatunā wa rajā’unā …",
+              "translation": "Ya Allah, bagi-Mu segala puji sebagai syukur, bagi-Mu anugerah sebagai karunia; Engkaulah Tuhan kami yang sebenarnya dan kami hamba-hamba-Mu… Wahai Yang memudahkan setiap kesulitan, menyambung setiap yang patah, menemani setiap yang sendiri, mencukupi setiap yang fakir, menguatkan setiap yang lemah, dan memberi rasa aman kepada setiap yang takut; mudahkanlah bagi kami setiap kesulitan, karena memudahkan yang sulit amatlah mudah bagi-Mu… Ya Allah, dengan hak Nabi Muhammad, jagalah kami dengan mata-Mu yang tidak tidur, lindungilah kami dengan naungan-Mu yang tak tertembus, dan rahmatilah kami dengan kekuasaan-Mu atas kami agar kami tidak binasa."
+            },
+            {
+              "arabic": "اَللّٰهُمَّ إِنَّا نَسْأَلُكَ زِيَادَةً فِي الدِّيْنِ، وَبَرَكَةً فِي الْعُمُرِ، وَصِحَّةً فِي الْجَسَدِ، وَسَعَةً فِي الرِّزْقِ، وَتَوْبَةً قَبْلَ الْمَوْتِ، وَشَهَادَةً عِنْدَ الْمَوْتِ، وَمَغْفِرَةً بَعْدَ الْمَوْتِ، وَعَفْوًا عِنْدَ الْحِسَابِ، وَأَمَانًا مِنَ الْعَذَابِ، وَنَصِيْبًا مِنَ الْجَنَّةِ، وَارْزُقْنَا النَّظَرَ إِلٰى وَجْهِكَ الْكَرِيْمِ، وَصَلَّى اللّٰهُ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَاٰلِهِ وَصَحْبِهِ وَسَلَّمَ، سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُوْنَ، وَسَلَامٌ عَلَى الْمُرْسَلِيْنَ، وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَمِيْنَ عَدَدَ خَلْقِهِ وَرِضٰى نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+              "latin": "Allāhumma innā nas’aluka ziyādatan fid-dīn … walḥamdu lillāhi rabbil-‘ālamīna ‘adada khalqihī wa riḍā nafsihī wa zinata ‘arsyihī wa midāda kalimātih."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "doa-quran",
+      "title": "Doa-Doa dari Al-Qur’an",
+      "items": [
+        {
+          "id": "doa-quran-pilihan",
+          "title": "Rabbana: Doa Pilihan dalam Al-Qur’an",
+          "extra": true,
+          "segments": [
+            { "quran": "2:201", "label": "Kebaikan dunia-akhirat (Al-Baqarah: 201)" },
+            { "quran": "3:8-9", "label": "Keteguhan hati (Ali ‘Imran: 8-9)" },
+            { "quran": "7:23", "label": "Tobat Nabi Adam (Al-A‘raf: 23)" },
+            { "quran": "21:87", "label": "Doa Nabi Yunus (Al-Anbiya’: 87)", "repeat": 40 },
+            { "quran": "3:173", "label": "Hasbunallah (Ali ‘Imran: 173)" },
+            { "quran": "17:80", "label": "Masuk & keluar dengan benar (Al-Isra’: 80)" },
+            { "quran": "25:74", "label": "Keluarga penyejuk mata (Al-Furqan: 74)" },
+            { "quran": "37:180-182", "label": "Penutup doa (Ash-Shaffat: 180-182)" }
+          ]
+        }
+      ]
+    }
+  ]
+}

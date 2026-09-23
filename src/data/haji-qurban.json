@@ -1,0 +1,154 @@
+{
+  "slug": "haji-qurban",
+  "title": "Haji, Qurban & Aqiqah",
+  "titleAr": "الحَجّ وَالْأُضْحِيَة وَالْعَقِيْقَة",
+  "description": "Ringkasan rukun haji & umrah beserta niat dan talbiyah, serta ketentuan qurban & aqiqah, niat menyembelih, dan doanya.",
+  "icon": "tent",
+  "sections": [
+    {
+      "id": "haji-umrah",
+      "title": "Haji & Umrah",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "rukun-haji",
+          "title": "Rukun & Wajib Haji",
+          "paragraphs": ["Haji wajib sekali seumur hidup bagi muslim yang mampu (istitha‘ah). Allah berfirman: “Mengerjakan haji ke Baitullah adalah kewajiban manusia terhadap Allah, yaitu bagi orang yang mampu mengadakan perjalanan ke sana.” (QS Ali ‘Imran: 97)"],
+          "points": [
+            "Rukun haji: (1) ihram (niat), (2) wukuf di ‘Arafah, (3) thawaf ifadhah, (4) sa‘i, (5) mencukur/memotong rambut, (6) tertib.",
+            "Rukun umrah: ihram, thawaf, sa‘i, mencukur rambut, dan tertib.",
+            "Wajib haji: ihram dari miqat, mabit di Muzdalifah, mabit di Mina, melontar jumrah, thawaf wada‘, dan menjauhi larangan ihram. Meninggalkan wajib haji diganti dengan dam."
+          ],
+          "source": "Safinatun Najah; Fathul Qarib"
+        },
+        {
+          "id": "niat-ihram",
+          "title": "Niat Ihram",
+          "extra": true,
+          "variants": [
+            {
+              "label": "Haji",
+              "arabic": "نَوَيْتُ الْحَجَّ وَأَحْرَمْتُ بِهِ لِلّٰهِ تَعَالٰى، لَبَّيْكَ اللّٰهُمَّ حَجًّا",
+              "latin": "Nawaitul-ḥajja wa aḥramtu bihī lillāhi ta‘ālā, labbaikallāhumma ḥajjā.",
+              "translation": "Aku niat haji dan berihram dengannya karena Allah Ta‘ala. Aku penuhi panggilan-Mu, ya Allah, untuk berhaji."
+            },
+            {
+              "label": "Umrah",
+              "arabic": "نَوَيْتُ الْعُمْرَةَ وَأَحْرَمْتُ بِهَا لِلّٰهِ تَعَالٰى، لَبَّيْكَ اللّٰهُمَّ عُمْرَةً",
+              "latin": "Nawaitul-‘umrata wa aḥramtu bihā lillāhi ta‘ālā, labbaikallāhumma ‘umrah.",
+              "translation": "Aku niat umrah dan berihram dengannya karena Allah Ta‘ala. Aku penuhi panggilan-Mu, ya Allah, untuk berumrah."
+            }
+          ]
+        },
+        {
+          "id": "talbiyah",
+          "title": "Talbiyah",
+          "extra": true,
+          "source": "HR. Bukhari & Muslim",
+          "note": "Dibaca sejak berihram hingga mulai melontar jumrah ‘Aqabah (haji) atau mulai thawaf (umrah).",
+          "arabic": "لَبَّيْكَ اللّٰهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيْكَ لَكَ",
+          "latin": "Labbaikallāhumma labbaik, labbaika lā syarīka laka labbaik, innal-ḥamda wan-ni‘mata laka wal-mulk, lā syarīka lak.",
+          "translation": "Aku penuhi panggilan-Mu ya Allah, aku penuhi panggilan-Mu. Aku penuhi panggilan-Mu, tiada sekutu bagi-Mu, aku penuhi panggilan-Mu. Sesungguhnya segala puji, nikmat, dan kerajaan adalah milik-Mu, tiada sekutu bagi-Mu."
+        },
+        {
+          "id": "doa-rukun-yamani",
+          "title": "Doa antara Rukun Yamani & Hajar Aswad",
+          "extra": true,
+          "source": "HR. Abu Dawud",
+          "segments": [{ "quran": "2:201", "label": "QS Al-Baqarah: 201" }]
+        },
+        {
+          "id": "doa-minum-zamzam",
+          "title": "Doa Minum Air Zamzam",
+          "extra": true,
+          "source": "Riwayat Ad-Daraquthni & Al-Hakim (dari Ibnu ‘Abbas)",
+          "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَرِزْقًا وَاسِعًا، وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+          "latin": "Allāhumma innī as’aluka ‘ilman nāfi‘an, wa rizqan wāsi‘an, wa syifā’an min kulli dā’.",
+          "translation": "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, rezeki yang luas, dan kesembuhan dari segala penyakit."
+        }
+      ]
+    },
+    {
+      "id": "qurban-aqiqah",
+      "title": "Qurban & Aqiqah",
+      "items": [
+        {
+          "kind": "guide",
+          "id": "ketentuan-qurban",
+          "title": "Ketentuan Qurban & Aqiqah",
+          "points": [
+            "Qurban (udhiyah) hukumnya sunnah muakkadah bagi yang mampu. Waktunya setelah shalat Idul Adha (10 Dzulhijjah) hingga terbenam matahari hari tasyriq terakhir (13 Dzulhijjah).",
+            "Hewan qurban: kambing/domba (cukup untuk satu orang), sapi atau unta (boleh untuk tujuh orang). Usia minimal: domba 1 tahun (atau telah tanggal gigi depannya), kambing 2 tahun, sapi 2 tahun, unta 5 tahun; sehat dan tidak cacat.",
+            "Aqiqah sunnah dilaksanakan pada hari ketujuh kelahiran: dua ekor kambing untuk anak laki-laki dan seekor untuk anak perempuan, disertai mencukur rambut dan memberi nama.",
+            "Daging qurban sunnah dibagikan dalam keadaan mentah; daging aqiqah sunnah dibagikan dalam keadaan matang."
+          ],
+          "source": "QS Al-Kautsar: 2; QS Al-Hajj: 37; Fathul Qarib"
+        },
+        {
+          "id": "niat-menyembelih",
+          "title": "Niat Menyembelih Qurban / Aqiqah",
+          "extra": true,
+          "source": "Risalatul Ummah hlm. 58",
+          "note": "Sebut nama pemilik hewan (bin/binti ...). Dilanjutkan takbir 3x dan basmalah ketika menyembelih.",
+          "variants": [
+            {
+              "label": "Qurban",
+              "arabic": "نَوَيْتُ أَنْ أَذْبَحَ هٰذِهِ الْأُضْحِيَّةَ عَنْ (…) بْنِ/بِنْتِ (…) تَقَرُّبًا إِلَى اللّٰهِ تَعَالٰى. اَللّٰهُ أَكْبَرُ ×٣، لَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+              "latin": "Nawaitu an adzbaḥa hādzihil-uḍḥiyyata ‘an (…) bin/binti (…) taqarruban ilallāhi ta‘ālā. Allāhu akbar ×3, lā ilāha illallāhu wallāhu akbar, Allāhu akbar wa lillāhil-ḥamd.",
+              "translation": "Aku niat menyembelih hewan qurban ini atas nama (…) bin/binti (…) untuk mendekatkan diri kepada Allah Ta‘ala."
+            },
+            {
+              "label": "Aqiqah",
+              "arabic": "نَوَيْتُ أَنْ أَذْبَحَ هٰذِهِ الْعَقِيْقَةَ عَنْ (…) بْنِ/بِنْتِ (…) تَقَرُّبًا إِلَى اللّٰهِ تَعَالٰى. اَللّٰهُ أَكْبَرُ ×٣، لَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+              "latin": "Nawaitu an adzbaḥa hādzihil-‘aqīqata ‘an (…) bin/binti (…) taqarruban ilallāhi ta‘ālā. Allāhu akbar ×3, lā ilāha illallāhu wallāhu akbar, Allāhu akbar wa lillāhil-ḥamd.",
+              "translation": "Aku niat menyembelih hewan aqiqah ini atas nama (…) bin/binti (…) untuk mendekatkan diri kepada Allah Ta‘ala."
+            }
+          ]
+        },
+        {
+          "id": "bacaan-menyembelih",
+          "title": "Bacaan Ketika Menyembelih",
+          "extra": true,
+          "source": "HR. Muslim & Abu Dawud",
+          "arabic": "بِسْمِ اللّٰهِ وَاللّٰهُ أَكْبَرُ، اَللّٰهُمَّ هٰذَا مِنْكَ وَلَكَ، اَللّٰهُمَّ تَقَبَّلْ مِنْ (…)",
+          "latin": "Bismillāhi wallāhu akbar, Allāhumma hādzā minka wa lak, Allāhumma taqabbal min (…).",
+          "translation": "Dengan nama Allah, Allah Mahabesar. Ya Allah, (hewan) ini dari-Mu dan untuk-Mu. Ya Allah, terimalah dari (sebut nama)."
+        },
+        {
+          "id": "doa-qurban-aqiqah",
+          "title": "Doa Qurban Idul Adha / Aqiqah",
+          "extra": true,
+          "source": "Risalatul Ummah hlm. 58",
+          "segments": [
+            {
+              "label": "Takbir",
+              "repeat": 3,
+              "arabic": "اَللّٰهُ أَكْبَرُ اَللّٰهُ أَكْبَرُ اَللّٰهُ أَكْبَرُ، لَا إِلٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ، اَللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
+              "latin": "Allāhu akbar, Allāhu akbar, Allāhu akbar, lā ilāha illallāhu wallāhu akbar, Allāhu akbar wa lillāhil-ḥamd."
+            },
+            {
+              "label": "Shalawat Ibrahimiyah",
+              "arabic": "اَللّٰهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ، كَمَا صَلَّيْتَ عَلٰى سَيِّدِنَا إِبْرَاهِيْمَ وَعَلٰى اٰلِ سَيِّدِنَا إِبْرَاهِيْمَ، وَبَارِكْ عَلٰى سَيِّدِنَا مُحَمَّدٍ وَعَلٰى اٰلِ سَيِّدِنَا مُحَمَّدٍ، كَمَا بَارَكْتَ عَلٰى سَيِّدِنَا إِبْرَاهِيْمَ وَعَلٰى اٰلِ سَيِّدِنَا إِبْرَاهِيْمَ، فِي الْعَالَمِيْنَ إِنَّكَ حَمِيْدٌ مَجِيْدٌ",
+              "latin": "Allāhumma ṣalli ‘alā sayyidinā Muḥammadin wa ‘alā āli sayyidinā Muḥammad, kamā ṣallaita ‘alā sayyidinā Ibrāhīma wa ‘alā āli sayyidinā Ibrāhīm, wa bārik ‘alā sayyidinā Muḥammadin wa ‘alā āli sayyidinā Muḥammad, kamā bārakta ‘alā sayyidinā Ibrāhīma wa ‘alā āli sayyidinā Ibrāhīm, fil-‘ālamīna innaka ḥamīdum majīd."
+            },
+            {
+              "label": "Doa",
+              "arabic": "اَللّٰهُمَّ اغْفِرْ لَنَا ذُنُوْبَنَا وَلِوَالِدِيْنَا وَلِأَقْرِبَائِنَا وَلِجَمِيْعِ الْمُسْلِمِيْنَ وَالْمُسْلِمَاتِ وَالْمُؤْمِنِيْنَ وَالْمُؤْمِنَاتِ، اَلْأَحْيَاءِ مِنْهُمْ وَالْأَمْوَاتِ. اَللّٰهُمَّ هٰذِهِ مِنْكَ وَإِلَيْكَ فَتَقَبَّلْ هٰذِهِ (الْأُضْحِيَّةَ / الْعَقِيْقَةَ) نِعْمَةً مِنْكَ عَلَيْنَا، تَقَرَّبْنَا بِهَا إِلَيْكَ فَتَقَبَّلْهَا مِنَّا يَا كَرِيْمُ. اَللّٰهُمَّ اجْعَلْ هٰذِهِ (الْأُضْحِيَّةَ / الْعَقِيْقَةَ) (…) بْنِ/بِنْتِ (…) فِدَاءً مِنَ النَّارِ، وَسِتْرًا مِنَ النَّارِ، وَحِجَابًا مِنَ النَّارِ، بِرَحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِيْنَ",
+              "latin": "Allāhummaghfir lanā dzunūbanā wa li wālidīnā wa li aqribā’inā wa li jamī‘il-muslimīna wal-muslimāti wal-mu’minīna wal-mu’mināt, al-aḥyā’i minhum wal-amwāt. Allāhumma hādzihī minka wa ilaika fa taqabbal hādzihil (uḍḥiyyata / ‘aqīqata) ni‘matan minka ‘alainā, taqarrabnā bihā ilaika fa taqabbalhā minnā yā karīm. Allāhummaj‘al hādzihil (uḍḥiyyata / ‘aqīqata) (…) bin/binti (…) fidā’an minan-nār, wa sitran minan-nār, wa ḥijāban minan-nār, bi raḥmatika yā arḥamar-rāḥimīn.",
+              "translation": "Ya Allah, ampunilah dosa-dosa kami, orang tua kami, kerabat kami, dan seluruh kaum muslimin dan mukminin, yang hidup maupun yang telah wafat. Ya Allah, (hewan) ini dari-Mu dan kembali kepada-Mu, maka terimalah (qurban/aqiqah) ini sebagai nikmat dari-Mu atas kami; kami mendekatkan diri kepada-Mu dengannya, maka terimalah dari kami, wahai Yang Maha Mulia. Ya Allah, jadikanlah (qurban/aqiqah) (…) ini tebusan, penutup, dan penghalang dari neraka, dengan rahmat-Mu wahai Yang Maha Penyayang."
+            }
+          ]
+        },
+        {
+          "id": "ayat-qurban",
+          "title": "Ayat tentang Qurban",
+          "extra": true,
+          "segments": [
+            { "quran": "108:1-3", "label": "QS Al-Kautsar: 1-3" },
+            { "quran": "22:37", "label": "QS Al-Hajj: 37" }
+          ]
+        }
+      ]
+    }
+  ]
+}
